@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+Q1/.venv/
+Q2/.venv/
+Q3/.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+checkpoint/
+checkpoints/
+Q1/results/
+Q2/checkpoints/
+Q3/checkpoints/
+
+# Data - Exclude large dataset files
+LibriSpeech/
+data/
+*.tar.gz
+*.zip
+test-*.tar.gz
+vox1_dev_wav_partaa
+manifests/
+
+# Logs and outputs
+*.log
+output/
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# SLURM
+*.slurm
+*.err
+*.out
+slurm_logs/

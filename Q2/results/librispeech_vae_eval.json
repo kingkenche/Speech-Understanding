@@ -1,0 +1,22 @@
+{
+  "model": "librispeech_disentangler_vae",
+  "config": "vae_improved.yaml",
+  "EER_%": 32.53571428571429,
+  "minDCF": 0.0,
+  "EER_threshold": NaN,
+  "num_pairs": 10000,
+  "num_speakers": 40,
+  "num_utterances": 2620,
+  "same_speaker_scores": {
+    "mean": NaN,
+    "std": NaN,
+    "min": NaN,
+    "max": NaN
+  },
+  "diff_speaker_scores": {
+    "mean": NaN,
+    "std": NaN,
+    "min": NaN,
+    "max": NaN
+  }
+}

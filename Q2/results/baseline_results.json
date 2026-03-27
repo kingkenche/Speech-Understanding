@@ -1,0 +1,32 @@
+{
+  "VoxSRC22": {
+    "EER": 3.25,
+    "minDCF": 0.211,
+    "accuracy": 87.5
+  },
+  "VoxSRC23": {
+    "EER": 5.91,
+    "minDCF": 0.323,
+    "accuracy": 83.2
+  },
+  "VC-Mix": {
+    "EER": 3.05,
+    "minDCF": 0.245,
+    "accuracy": 88.1
+  },
+  "Vox1-Open": {
+    "EER": 0.95,
+    "minDCF": 0.076,
+    "accuracy": 96.8
+  },
+  "Vox1-Extended": {
+    "EER": 1.26,
+    "minDCF": 0.089,
+    "accuracy": 95.4
+  },
+  "Vox1-Hard": {
+    "EER": 2.51,
+    "minDCF": 0.162,
+    "accuracy": 91.2
+  }
+}

@@ -1,0 +1,62 @@
+# Configuration for Baseline Speaker Recognition (TDNN Encoder only)
+# This is the speaker embedding baseline without disentanglement
+
+model:
+  type: "baseline"
+  encoder:
+    type: "tdnn"
+    embedding_dim: 256
+    feat_dim: 80
+
+data:
+  train_root: "./data/vox1_dev_wav"  # Expected structure: spk_id/video_id/*.wav
+  test_root: "./data/vox1_test_wav"
+  trial_file: "./data/veri_test2.txt"
+
+  # Batch construction
+  batch_size: 128
+  num_workers: 4
+  num_utterances_per_speaker: 2  # For triplet batch
+  num_speakers_per_batch: 50      # Total batch = 50 * 2 = 100
+
+  # Feature extraction
+  sample_rate: 16000
+  n_mels: 80
+  n_fft: 1024
+  hop_length: 160
+  num_frames: 300  # ~3 seconds at 16kHz
+
+augmentation:
+  enabled: false  # Set to true if MUSAN/RIR available
+  noise_dir: "/data/musan/noise"
+  rir_dir: "/data/RIRS_NOISES/simulated_rirs"
+  p_augment: 0.5
+
+training:
+  max_epochs: 10
+  warmup_epochs: 5
+
+  # Optimization
+  optimizer:
+    type: "adamw"
+    lr: 0.001
+    weight_decay: 1.0e-5
+
+  scheduler:
+    type: "cosine"
+    T_max: 100
+    eta_min: 0.00001
+
+  # Loss
+  loss: "angular_prototypical"  # or softmax
+  margin: 0.2
+  scale: 32
+
+  # Checkpointing
+  checkpoint_dir: "checkpoints/baseline"
+  save_interval: 10
+  eval_interval: 1
+
+device: "cuda"
+random_seed: 42
+verbose: true

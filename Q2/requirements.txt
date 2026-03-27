@@ -1,0 +1,19 @@
+# Requirements for Q2: Disentangled Speaker Recognition
+
+# Core Deep Learning
+torch==2.1.0
+torchaudio==2.1.0
+
+# Configuration
+pyyaml==6.0
+
+# Scientific Computing
+numpy<2  # Must use NumPy 1.x for PyTorch 2.2.0 compatibility
+scipy==1.10.0
+scikit-learn==1.2.0
+
+# Visualization & Plotting
+matplotlib==3.7.0
+
+# Optional utilities
+tqdm==4.65.0

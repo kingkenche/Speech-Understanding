@@ -1,0 +1,15 @@
+{
+  "eval_data": "./LibriSpeech",
+  "results": [
+    {
+      "Model": "VAE-Disentangler (Proposed)",
+      "EER (%)": "32.54",
+      "minDCF": "0.0000",
+      "Pairs": 10000,
+      "Speakers": 40
+    }
+  ],
+  "individual_results": [
+    "librispeech_vae_eval.json"
+  ]
+}

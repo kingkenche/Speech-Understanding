@@ -1,0 +1,1 @@
+C:\Users\IITJ\AppData\Local\Microsoft\WindowsApps\python3.exe: can't open file 'G:\\Speech Undertsanding\\Assignment-1\\Q2\\q2\\train.py': [Errno 2] No such file or directory

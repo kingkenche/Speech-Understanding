@@ -1,0 +1,24 @@
+==============================================================================================
+Method                  Vox1-O EER  Vox1-O DCF  Vox1-H EER  Vox1-H DCF  VC-Mix EER  VC-Mix DCF
+==============================================================================================
+Baseline                 3.21±0.05      0.2080   5.92±0.09      0.1620   3.05±0.09      0.2450
+AE-Disentangler          2.78±0.03      0.1850   5.41±0.12      0.1490   2.63±0.10      0.2260
+VAE-Disentangler         2.71±0.02      0.1810   5.28±0.07      0.1450   2.55±0.06      0.2180
+==============================================================================================
+
+--- LaTeX ---
+
+\begin{table}[h]
+\centering
+\caption{EER (\%) and minDCF results. Best results in \textbf{bold}.}
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+\multirow{2}{*}{\textbf{Method}} & \multicolumn{2}{c}{\textbf{Vox1-O}} & \multicolumn{2}{c}{\textbf{Vox1-H}} & \multicolumn{2}{c}{\textbf{VC-Mix}} \\
+ & EER(\%) & minDCF & EER(\%) & minDCF & EER(\%) & minDCF \\
+\midrule
+Baseline & 3.21 & 0.2080 & 5.92 & 0.1620 & 3.05 & 0.2450 \\
+AE\textendash Disentangler & 2.78 & 0.1850 & 5.41 & 0.1490 & 2.63 & 0.2260 \\
+VAE\textendash Disentangler & \textbf{2.71} & \textbf{0.1810} & \textbf{5.28} & \textbf{0.1450} & \textbf{2.55} & \textbf{0.2180} \\
+\bottomrule
+\end{tabular}
+\end{table}

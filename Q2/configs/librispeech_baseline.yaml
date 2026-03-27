@@ -1,0 +1,60 @@
+# Configuration for LibriSpeech-based Baseline (TDNN Encoder only)
+# LibriSpeech has speaker/chapter/utterance structure
+# Chapter ID is used as session proxy (like video_id in VoxCeleb)
+
+model:
+  type: "baseline"
+  encoder:
+    type: "tdnn"
+    embedding_dim: 256
+    feat_dim: 80
+
+data:
+  dataset: "librispeech"
+  train_root: "./data"  # Path containing LibriSpeech/ folder
+  subset: "train-clean-100"
+
+  # Batch construction
+  batch_size: 128
+  num_workers: 4
+  num_utterances_per_speaker: 2  # For triplet batch
+  num_speakers_per_batch: 50      # Total batch = 50 * 2 = 100
+
+  # Feature extraction
+  sample_rate: 16000
+  n_mels: 80
+  n_fft: 1024
+  hop_length: 160
+  num_frames: 300  # ~3 seconds at 16kHz
+
+augmentation:
+  enabled: false  # LibriSpeech is already clean
+
+training:
+  max_epochs: 10
+  warmup_epochs: 5
+
+  # Optimization
+  optimizer:
+    type: "adamw"
+    lr: 0.001
+    weight_decay: 1.0e-5
+
+  scheduler:
+    type: "cosine"
+    T_max: 100
+    eta_min: 0.00001
+
+  # Loss
+  loss: "angular_prototypical"
+  margin: 0.2
+  scale: 32
+
+  # Checkpointing
+  checkpoint_dir: "checkpoints/librispeech_baseline"
+  save_interval: 10
+  eval_interval: 1
+
+device: "cuda"
+random_seed: 42
+verbose: true

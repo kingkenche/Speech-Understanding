@@ -1,0 +1,97 @@
+# Configuration for VAE-Disentangler (Proposed Improvement - Part d)
+# β-VAE based disentanglement with probabilistic latent code
+
+model:
+  type: "disentangler_vae"
+
+  # Base encoder
+  encoder:
+    type: "tdnn"
+    embedding_dim: 256
+    feat_dim: 80
+
+  # VAE Disentangler
+  disentangler:
+    type: "vae"
+    latent_dim: 256
+    component_dim: 128
+    hidden_dim: 512
+
+  # Discriminators (same as AE)
+  discriminators:
+    speaker:
+      type: "linear"
+      hidden_dim: null
+    environment:
+      type: "mlp"
+      hidden_dim: 512
+    num_envs: 100
+
+data:
+  train_root: "./data/vox1_dev_wav"
+  test_root: "./data/vox1_test_wav"
+  trial_file: "./data/veri_test2.txt"
+
+  # Batch construction
+  batch_size: 128
+  num_workers: 4
+  num_utterances_per_speaker: 2
+  num_speakers_per_batch: 50
+
+  # Feature extraction
+  sample_rate: 16000
+  n_mels: 80
+  n_fft: 1024
+  hop_length: 160
+  num_frames: 300
+
+augmentation:
+  enabled: false
+  noise_dir: "/data/musan/noise"
+  rir_dir: "/data/RIRS_NOISES/simulated_rirs"
+  p_augment: 0.5
+
+training:
+  # Two-phase training
+  pretrain_epochs: 20
+  max_epochs: 100
+
+  warmup_epochs: 5
+
+  # Optimization
+  optimizer:
+    type: "adamw"
+    lr: 0.0001
+    weight_decay: 1.0e-5
+
+  scheduler:
+    type: "cosine"
+    T_max: 100
+    eta_min: 0.00001
+
+  # Loss weights (5 original terms + VAE KL)
+  losses:
+    L_spk: 1.0              # Speaker loss
+    L_recons: 1.0           # Reconstruction loss
+    L_env_env: 1.0          # Environment discriminator on env code
+    L_env_spk: 0.5          # Environment discriminator on speaker code
+    L_corr: 1.0             # Correlation loss
+    L_kl_speaker: 0.1       # KL divergence on speaker component
+    L_kl_environment: 0.1   # KL divergence on environment component
+
+  grl_lambda: 0.5
+
+  # VAE parameters
+  vae:
+    beta_speaker: 0.1       # β-VAE weight for speaker KL
+    beta_environment: 0.1   # β-VAE weight for environment KL
+    use_stochastic_sampling: true
+
+  # Checkpointing
+  checkpoint_dir: "checkpoints/disentangler_vae"
+  save_interval: 10
+  eval_interval: 1
+
+device: "cuda"
+random_seed: 42
+verbose: true

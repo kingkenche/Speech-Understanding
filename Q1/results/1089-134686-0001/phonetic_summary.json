@@ -1,0 +1,220 @@
+{
+  "audio": "data/1089-134686-0001.wav",
+  "transcript": "SYN",
+  "model_id": "synthetic_fallback",
+  "rmse": {
+    "rmse_start": 0.006831300510639738,
+    "rmse_end": 0.0068313005106397165,
+    "rmse_combined": 0.006831300510639728,
+    "mae_combined": 0.004666666666666664,
+    "errors": [
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.009999999999999787,
+      0.0,
+      0.010000000000000231,
+      0.0,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.010000000000000009,
+      0.0,
+      0.009999999999999787,
+      0.0,
+      0.009999999999999787,
+      0.0,
+      0.010000000000000231,
+      0.0
+    ]
+  },
+  "num_manual": 15,
+  "num_tokens": 16,
+  "manual_boundaries": [
+    {
+      "start_s": 0.0125,
+      "end_s": 0.3425,
+      "label": "voiced"
+    },
+    {
+      "start_s": 0.35250000000000004,
+      "end_s": 0.5225,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 0.5325,
+      "end_s": 0.8524999999999999,
+      "label": "voiced"
+    },
+    {
+      "start_s": 0.8624999999999999,
+      "end_s": 0.9325,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 0.9425,
+      "end_s": 1.0525,
+      "label": "voiced"
+    },
+    {
+      "start_s": 1.0625,
+      "end_s": 1.2925,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 1.3025,
+      "end_s": 1.6025,
+      "label": "voiced"
+    },
+    {
+      "start_s": 1.6125,
+      "end_s": 1.7425,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 1.7525,
+      "end_s": 1.8925,
+      "label": "voiced"
+    },
+    {
+      "start_s": 1.9025,
+      "end_s": 2.0925000000000002,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 2.1025,
+      "end_s": 2.4225000000000003,
+      "label": "voiced"
+    },
+    {
+      "start_s": 2.4325,
+      "end_s": 2.4825000000000004,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 2.4925,
+      "end_s": 2.6025,
+      "label": "voiced"
+    },
+    {
+      "start_s": 2.6125000000000003,
+      "end_s": 2.7025,
+      "label": "unvoiced"
+    },
+    {
+      "start_s": 2.7125000000000004,
+      "end_s": 3.2625,
+      "label": "voiced"
+    }
+  ],
+  "model_tokens": [
+    {
+      "token": "AE",
+      "start_s": 0.0125,
+      "end_s": 0.17750000000000002,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 0.17750000000000002,
+      "end_s": 0.3425,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 0.5325,
+      "end_s": 0.6924999999999999,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 0.6924999999999999,
+      "end_s": 0.8524999999999999,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 0.9425,
+      "end_s": 0.9975,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 0.9975,
+      "end_s": 1.0525,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 1.3025,
+      "end_s": 1.4525000000000001,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 1.4525000000000001,
+      "end_s": 1.6025,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 1.7525,
+      "end_s": 1.8225,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 1.8225,
+      "end_s": 1.8925,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 2.1025,
+      "end_s": 2.2625,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 2.2625,
+      "end_s": 2.4225000000000003,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 2.4925,
+      "end_s": 2.5475000000000003,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 2.5475000000000003,
+      "end_s": 2.6025,
+      "voiced": "voiced"
+    },
+    {
+      "token": "AE",
+      "start_s": 2.7125000000000004,
+      "end_s": 2.9875000000000003,
+      "voiced": "voiced"
+    },
+    {
+      "token": "IH",
+      "start_s": 2.9875000000000003,
+      "end_s": 3.2625,
+      "voiced": "voiced"
+    }
+  ]
+}

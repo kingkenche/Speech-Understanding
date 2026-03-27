@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Deep learning
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Hugging Face
+transformers>=4.35.0
+huggingface-hub>=0.17.0
+
+# Audio I/O
+soundfile>=0.12.1
+
+# Optional: faster tokenisation
+tokenizers>=0.14.0

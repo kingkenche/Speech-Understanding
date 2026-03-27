@@ -1,0 +1,18 @@
+{
+  "Identical distribution (FAD \u2248 0)": {
+    "fad": 0.0,
+    "interpretation": "Excellent \u2013 generated audio is very close to reference."
+  },
+  "Small shift (high quality)": {
+    "fad": 1.3969,
+    "interpretation": "Excellent \u2013 generated audio is very close to reference."
+  },
+  "Medium shift (acceptable)": {
+    "fad": 24.1395,
+    "interpretation": "Acceptable \u2013 noticeable differences; check for artefacts."
+  },
+  "Large shift (degraded quality)": {
+    "fad": 293.2038,
+    "interpretation": "Very poor \u2013 major artefacts or mode collapse."
+  }
+}

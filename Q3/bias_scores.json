@@ -1,0 +1,151 @@
+{
+  "documentation_debt": {
+    "gender": {
+      "total": 6382,
+      "missing": 3025,
+      "missing_pct": 47.4,
+      "filled_pct": 52.6
+    },
+    "age": {
+      "total": 6382,
+      "missing": 497,
+      "missing_pct": 7.79,
+      "filled_pct": 92.21
+    },
+    "accents": {
+      "total": 6382,
+      "missing": 5437,
+      "missing_pct": 85.19,
+      "filled_pct": 14.81
+    }
+  },
+  "representation_bias": {
+    "gender": {
+      "distribution": {
+        "": 0.473989345032905,
+        "female_feminine": 0.38060169225947976,
+        "male_masculine": 0.08241930429332497,
+        "do_not_wish_to_say": 0.0294578502036979,
+        "intersex": 0.02554058288937637,
+        "transgender": 0.006424318395487308,
+        "non-binary": 0.0015669069257286117
+      },
+      "entropy_bits": 1.3042,
+      "normalized_entropy": 0.5045,
+      "gini_coefficient": 0.674,
+      "num_categories": 6
+    },
+    "age": {
+      "distribution": {
+        "twenties": 0.5103415857098088,
+        "teens": 0.12409902851770604,
+        "thirties": 0.10184895017235976,
+        "": 0.077875274208712,
+        "sixties": 0.077875274208712,
+        "fifties": 0.06330303979943591,
+        "seventies": 0.021936696960200563,
+        "fourties": 0.02146662488248198,
+        "eighties": 0.0007834534628643058,
+        "nineties": 0.0004700720777185835
+      },
+      "entropy_bits": 2.0481,
+      "normalized_entropy": 0.6461,
+      "gini_coefficient": 0.6329,
+      "num_categories": 9
+    },
+    "accents": {
+      "distribution": {
+        "": 0.7760491007707679,
+        "united states english": 0.06280331144733085,
+        "england english": 0.030830716528689694,
+        "some say pakistani": 0.024407650585212676,
+        "french improved": 0.024407650585212676,
+        "international accent": 0.024407650585212676,
+        "european english": 0.024407650585212676,
+        "australian english": 0.004710248358549814,
+        "southern african (south africa, zimbabwe, namibia)": 0.0028546959748786756,
+        "first language:russian": 0.002569226377390808,
+        "eastern european heavily influenced by the greek clear pronounciation of vowels and consonants.": 0.0022837567799029405,
+        "northeastern accent": 0.0021410219811590064,
+        "southern england english": 0.0021410219811590064,
+        "india and south asia (india, pakistan, sri lanka)": 0.001855552383671139,
+        "south georgia, usa": 0.0017128175849272054,
+        "southern united states": 0.0017128175849272054,
+        "chicago italian": 0.0017128175849272054,
+        "german": 0.0015700827861832715,
+        "singaporean english": 0.0011418783899514702,
+        "canadian english": 0.0009991435912075363,
+        "contemporary received pronounciation": 0.0005709391949757351,
+        "london english": 0.0005709391949757351,
+        "malaysian english": 0.0005709391949757351,
+        "midlands": 0.00042820439623180134,
+        "irish english": 0.00042820439623180134,
+        "southern ohio english": 0.00042820439623180134,
+        "italian english": 0.00042820439623180134,
+        "united states southeastern english (charlotte nc)": 0.00028546959748786756,
+        "black country": 0.00028546959748786756,
+        "turkey english": 0.00028546959748786756,
+        "german english": 0.00028546959748786756,
+        "danish": 0.00014273479874393378,
+        "scottish english": 0.00014273479874393378,
+        "filipino": 0.00014273479874393378,
+        "south india": 0.00014273479874393378,
+        "kannadiga": 0.00014273479874393378
+      },
+      "entropy_bits": 3.3296,
+      "normalized_entropy": 0.6491,
+      "gini_coefficient": 0.7693,
+      "num_categories": 35
+    },
+    "accents_exploded": {
+      "distribution": {
+        "": 0.7760491007707679,
+        "united states english": 0.06280331144733085,
+        "england english": 0.030830716528689694,
+        "some say pakistani": 0.024407650585212676,
+        "french improved": 0.024407650585212676,
+        "international accent": 0.024407650585212676,
+        "european english": 0.024407650585212676,
+        "australian english": 0.004710248358549814,
+        "southern african (south africa, zimbabwe, namibia)": 0.0028546959748786756,
+        "first language:russian": 0.002569226377390808,
+        "eastern european heavily influenced by the greek clear pronounciation of vowels and consonants.": 0.0022837567799029405,
+        "northeastern accent": 0.0021410219811590064,
+        "southern england english": 0.0021410219811590064,
+        "india and south asia (india, pakistan, sri lanka)": 0.001855552383671139,
+        "south georgia, usa": 0.0017128175849272054,
+        "southern united states": 0.0017128175849272054,
+        "chicago italian": 0.0017128175849272054,
+        "german": 0.0015700827861832715,
+        "singaporean english": 0.0011418783899514702,
+        "canadian english": 0.0009991435912075363,
+        "contemporary received pronounciation": 0.0005709391949757351,
+        "london english": 0.0005709391949757351,
+        "malaysian english": 0.0005709391949757351,
+        "midlands": 0.00042820439623180134,
+        "irish english": 0.00042820439623180134,
+        "southern ohio english": 0.00042820439623180134,
+        "italian english": 0.00042820439623180134,
+        "united states southeastern english (charlotte nc)": 0.00028546959748786756,
+        "black country": 0.00028546959748786756,
+        "turkey english": 0.00028546959748786756,
+        "german english": 0.00028546959748786756,
+        "danish": 0.00014273479874393378,
+        "scottish english": 0.00014273479874393378,
+        "filipino": 0.00014273479874393378,
+        "south india": 0.00014273479874393378,
+        "kannadiga": 0.00014273479874393378
+      },
+      "entropy_bits": 3.3296,
+      "normalized_entropy": 0.6491,
+      "gini_coefficient": 0.7693,
+      "num_categories": 35
+    }
+  },
+  "flags": [
+    "\u26a0  Gender is heavily skewed. This corpus uses 6 categories (female_feminine, male_masculine, intersex, transgender, non-binary, do_not_wish_to_say). Ensure ALL six are in the PrivacyModule vocabulary and fairness-loss group definitions.",
+    "\u26a0  Age skewed: 'twenties' = 51.0% of labelled rows. Speakers aged 40\u201390 are critically under-represented.",
+    "\u26a0  Accent metadata 85.2% empty \u2013 largest documentation debt. Priority: community re-labelling or automatic accent detection.",
+    "\u26a0  47.4% gender labels missing. Privacy-preserving transformation cannot target these rows."
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+  "n_files": 150,
+  "SIG_mean": 2.677,
+  "SIG_std": 0.0,
+  "BAK_mean": 2.775,
+  "BAK_std": 0.0,
+  "OVR_mean": 2.662,
+  "OVR_std": 0.0,
+  "STOI_mean": null,
+  "per_file": [
+    {
+      "file": "spontaneous-speech-en-10_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-114_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-115_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.506,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-117_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.507,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-118_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-119_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-11_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-120_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-121_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-124_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-125_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-126_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-127_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-12_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-138_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-13_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-14_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-15_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-16_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-17_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.499,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-18389_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.504,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-18390_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-18418_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.499,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-18_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-1917_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-19966_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-19967_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-19_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-1_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20204_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20205_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20206_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20214_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20215_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20216_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20217_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20218_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20219_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20220_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20221_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20222_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20223_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20224_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20225_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20226_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20227_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20228_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20229_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20230_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20231_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20232_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20233_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20234_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20235_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20236_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20237_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20238_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20239_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20240_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20241_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20242_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20243_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20244_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20245_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20246_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20247_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20248_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20249_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20250_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20251_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20252_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20253_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20254_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20255_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20256_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20257_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20258_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.504,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20259_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20260_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20261_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20262_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20263_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20264_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20265_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20266_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20267_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20268_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20269_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20270_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20271_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20272_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20286_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.498,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20295_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20296_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20297_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20298_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.499,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20299_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20308_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20322_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20336_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.498,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20337_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.498,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20338_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.507,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20339_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.504,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20340_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-20349_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-2069_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-21983_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-22016_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-22017_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-24974_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-24_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-25_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-26_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-27025_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.498,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-27033_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-27135_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-27_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28403_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28404_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28410_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28418_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28422_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28427_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28429_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28430_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28434_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28441_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28443_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.499,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28454_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28458_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.499,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28463_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28468_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28470_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28473_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28478_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28485_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28490_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28493_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28496_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28499_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28501_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28507_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.501,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28513_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28518_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28520_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.661,
+      "SAR": 1.0,
+      "ZCR": 0.502,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28523_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.499,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28528_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.498,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28532_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.503,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28534_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    },
+    {
+      "file": "spontaneous-speech-en-28537_male_masculine_old_to_female_feminine_young.wav",
+      "SIG": 2.677,
+      "BAK": 2.775,
+      "OVR": 2.662,
+      "SAR": 1.0,
+      "ZCR": 0.5,
+      "stoi_proxy": null
+    }
+  ]
+}

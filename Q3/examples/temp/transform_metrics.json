@@ -1,0 +1,12 @@
+{
+  "mel_mae": 7.905949,
+  "approx_snr_db": 0.01,
+  "source_attrs": {
+    "gender": "male_masculine",
+    "age": "old"
+  },
+  "target_attrs": {
+    "gender": "female_feminine",
+    "age": "young"
+  }
+}

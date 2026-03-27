@@ -1,0 +1,8 @@
+{
+  "fad_score": 1.6497,
+  "l2_mean_dist": 1.3804,
+  "n_reference": 2687,
+  "n_generated": 2687,
+  "embed_dim": 128,
+  "interpretation": "Excellent \u2013 generated audio is very close to reference."
+}

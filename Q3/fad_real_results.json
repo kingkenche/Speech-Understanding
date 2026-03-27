@@ -1,0 +1,8 @@
+{
+  "fad_score": 2.8123,
+  "l2_mean_dist": 1.7516,
+  "n_reference": 2687,
+  "n_generated": 2687,
+  "embed_dim": 128,
+  "interpretation": "Good \u2013 minor distributional differences."
+}

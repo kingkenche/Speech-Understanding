@@ -1,0 +1,25 @@
+{
+  "fad": {
+    "fad_score": 8.6128,
+    "l2_mean_dist": 0.4984,
+    "n_reference": 50,
+    "n_generated": 50,
+    "embed_dim": 128,
+    "interpretation": "Good \u2013 minor distributional differences."
+  },
+  "dnsmos": {
+    "n_files": 4,
+    "SIG_mean": 2.742,
+    "SIG_std": 0.002,
+    "BAK_mean": 2.749,
+    "BAK_std": 0.003,
+    "OVR_mean": 2.757,
+    "OVR_std": 0.002,
+    "STOI_mean": null
+  },
+  "pass_fail": {
+    "fad_ok": true,
+    "mos_ok": false,
+    "no_toxicity_traps": false
+  }
+}

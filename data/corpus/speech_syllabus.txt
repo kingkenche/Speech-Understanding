@@ -1,0 +1,139 @@
+Speech Understanding Course Syllabus and Technical Vocabulary
+
+Unit 1: Introduction to Speech Processing
+Speech is a complex acoustic signal produced by the human vocal tract.
+Automatic speech recognition ASR converts spoken language to text.
+The acoustic model maps audio features to phoneme probabilities.
+The language model assigns probabilities to word sequences.
+The pronunciation dictionary maps words to phoneme sequences.
+
+Unit 2: Signal Processing Fundamentals
+The short-time Fourier transform STFT computes frequency content over time.
+The spectrogram is a visual representation of frequency over time.
+Mel filterbanks apply perceptually motivated frequency scaling.
+Mel frequency cepstral coefficients MFCC are widely used acoustic features.
+The cepstrum is the inverse Fourier transform of the log spectrum.
+Cepstral mean normalization removes channel effects from features.
+Pre-emphasis filtering boosts high-frequency components of speech.
+Frame blocking segments the speech signal into overlapping frames.
+Windowing functions like Hamming prevent spectral leakage.
+Zero crossing rate ZCR measures signal polarity changes per frame.
+Energy contour tracks the root mean square RMS amplitude over time.
+
+Unit 3: Acoustic Modeling
+Hidden Markov Models HMM model temporal variability in speech.
+The Viterbi algorithm finds the most probable state sequence in an HMM.
+The forward-backward algorithm computes state occupancy probabilities.
+Gaussian mixture models GMM model the emission probability of HMM states.
+Deep neural networks DNN replaced GMM for acoustic modeling in hybrid systems.
+Context-dependent triphone models capture coarticulation effects.
+Baum-Welch algorithm performs expectation-maximization EM for HMM training.
+The phoneme is the smallest unit of sound in a language.
+Allophones are contextual variants of phonemes.
+Coarticulation describes how adjacent phonemes influence each other.
+
+Unit 4: Language Modeling
+N-gram language models estimate word probability from preceding words.
+A bigram model conditions on the previous one word.
+A trigram model conditions on the previous two words.
+Perplexity measures language model quality on held-out data.
+Kneser-Ney smoothing handles the zero-probability problem in n-gram models.
+Neural language models use recurrent networks or transformers.
+Backoff and interpolation are common smoothing strategies.
+Vocabulary coverage and out-of-vocabulary OOV rate affect ASR accuracy.
+Word error rate WER measures the edit distance between reference and hypothesis.
+Beam search finds approximate best sequences by keeping top-k partial hypotheses.
+
+Unit 5: End-to-End ASR
+Connectionist temporal classification CTC enables framewise output alignment.
+Attention-based encoder-decoder models jointly optimize acoustic and linguistic modeling.
+The transformer architecture uses multi-head self-attention.
+Wav2Vec 2.0 uses contrastive learning on raw waveforms.
+Whisper is a large-scale weakly supervised ASR model.
+The Whisper model uses a log-mel spectrogram as input.
+The encoder processes acoustic features and the decoder generates tokens.
+Constrained beam search restricts the output vocabulary during decoding.
+Logit biasing adds a scalar reward to preferred token logits during generation.
+The forced decoder ids mechanism forces language and task tokens in Whisper.
+
+Unit 6: Speaker Recognition and Verification
+Speaker verification determines whether two speech samples are from the same speaker.
+Speaker identification classifies an utterance among a set of known speakers.
+D-vectors are speaker embeddings extracted from deep neural networks.
+X-vectors are speaker embeddings based on TDNN temporal delay neural networks.
+ECAPA-TDNN is a state-of-the-art speaker embedding architecture.
+Cosine similarity compares speaker embeddings.
+The equal error rate EER is the point where false acceptance equals false rejection.
+
+Unit 7: Text-to-Speech Synthesis
+Text-to-speech TTS converts written text to spoken audio.
+Concatenative synthesis splices pre-recorded speech segments.
+Statistical parametric synthesis uses vocoders and acoustic models.
+VITS variational inference with adversarial learning is an end-to-end TTS model.
+Tacotron 2 predicts mel spectrograms from text using attention.
+WaveNet is a deep generative model of raw audio waveforms.
+HiFi-GAN is a generative adversarial network GAN vocoder for high-fidelity synthesis.
+The fundamental frequency F0 determines the perceived pitch of speech.
+Prosody refers to the rhythm stress and intonation of speech.
+Duration modeling controls the timing of phonemes in synthesized speech.
+Dynamic time warping DTW aligns two temporal sequences by warping the time axis.
+MOS mean opinion score evaluates subjective speech quality.
+Mel cepstral distortion MCD measures spectral distance between reference and synthesized speech.
+
+Unit 8: Language Identification
+Language identification LID classifies the language spoken in an utterance.
+Code-switching occurs when two languages are mixed in a single utterance.
+Hinglish is the code-mixed form of Hindi and English common in India.
+Frame-level LID classifies language at each short time frame.
+Multi-head classification produces multiple per-frame language decisions.
+The F1 score is the harmonic mean of precision and recall.
+Language boundary detection identifies switch points between languages.
+Timestamp precision measures accuracy of detected switch points in milliseconds.
+
+Unit 9: Robustness and Security
+Adversarial perturbations are small input modifications that fool classifiers.
+The fast gradient sign method FGSM generates adversarial examples using gradient sign.
+Signal-to-noise ratio SNR measures the ratio of signal power to noise power.
+Anti-spoofing countermeasure CM systems distinguish live speech from synthesized audio.
+Linear frequency cepstral coefficients LFCC are used in anti-spoofing systems.
+Constant-Q cepstral coefficients CQCC provide constant-Q frequency resolution.
+The ASVspoof challenge evaluates anti-spoofing systems.
+Bona fide samples are genuine human recordings.
+Spoof samples are generated by voice conversion or TTS systems.
+Replay attacks present a recording of a genuine speaker to fool a verification system.
+
+Unit 10: Low-Resource and Multilingual Speech
+Transfer learning adapts models trained on high-resource languages to low-resource ones.
+Zero-shot cross-lingual transfer applies a model to languages unseen during training.
+Voice cloning synthesizes speech in the voice of a reference speaker.
+Speaker adaptation fine-tunes a general TTS model with few minutes of target speaker data.
+Meta-MMS massively multilingual speech models cover thousands of languages.
+Gondi is a Dravidian language spoken in central India.
+Santhali Maithili and Gondi are low-resource languages LRL of interest.
+IPA International Phonetic Alphabet provides a standardized phoneme notation.
+Grapheme-to-phoneme G2P conversion maps written words to their pronunciation.
+Romanization converts a script to Latin characters for common processing.
+Parallel corpus is a set of sentences in two or more languages aligned by meaning.
+Stochastic gradient descent SGD optimizes neural network parameters.
+Batch normalization stabilizes training by normalizing layer activations.
+Dropout regularization prevents overfitting by randomly zeroing activations.
+Learning rate scheduling adjusts the step size during training.
+Encoder decoder architecture maps input sequences to output sequences.
+Self-attention computes weighted combinations of all positions in a sequence.
+Positional encoding injects sequence order information into transformer inputs.
+Cross-entropy loss measures the divergence between predicted and true distributions.
+Softmax normalizes logits to a probability distribution over the vocabulary.
+Spectrogram augmentation SpecAugment applies time and frequency masking for data augmentation.
+Conformer architecture combines convolution and self-attention for speech processing.
+Residual connections help gradients flow through deep networks.
+Layer normalization normalizes activations within each layer.
+Vocoder converts acoustic parameters like mel spectrogram to waveforms.
+Griffin-Lim algorithm reconstructs waveforms from spectrograms iteratively.
+Phone posterior probability measures how likely a phoneme is given acoustic features.
+Forced alignment aligns phoneme sequences to audio frames.
+Acoustic feature extraction transforms raw waveforms into compact representations.
+Reverberation is the persistence of sound after the source has stopped.
+Spectral subtraction reduces noise by subtracting an estimated noise spectrum.
+DeepFilterNet uses a deep filter network for wideband speech enhancement.
+Noise robustness ensures a model performs well in noisy environments.
+Room impulse response RIR characterizes acoustic reverberation.

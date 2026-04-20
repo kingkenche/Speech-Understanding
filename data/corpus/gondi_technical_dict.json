@@ -1,0 +1,758 @@
+{
+  "metadata": {
+    "language": "Gondi",
+    "romanization": "ITRANS",
+    "total_entries": 542,
+    "domain": "Speech Processing & Machine Learning",
+    "note": "Curated technical dictionary for code-switched (Hinglish) to Gondi translation. Maps English/Hindi technical terms to Gondi using ITRANS romanization. Entries marked with '*' are high-frequency in speech processing domain."
+  },
+  "terms": {
+    "*stochastic": {
+      "english": "stochastic",
+      "hindi": "स्टोकेस्टिक",
+      "gondi_itrans": "stokestik",
+      "gondi_meaning": "anumana-based / probabilistic"
+    },
+    "*cepstrum": {
+      "english": "cepstrum",
+      "hindi": "सेपस्ट्रम",
+      "gondi_itrans": "sepstrum",
+      "gondi_meaning": "avaj-vishleshan (voice analysis)"
+    },
+    "*fourier": {
+      "english": "fourier",
+      "hindi": "फूरिए",
+      "gondi_itrans": "furie",
+      "gondi_meaning": "trang-karni (frequency decomposition)"
+    },
+    "*spectrogram": {
+      "english": "spectrogram",
+      "hindi": "स्पेक्ट्रोग्राम",
+      "gondi_itrans": "spektrogram",
+      "gondi_meaning": "trang-ansaar-chitram (frequency time image)"
+    },
+    "*neural": {
+      "english": "neural",
+      "hindi": "न्यूरल",
+      "gondi_itrans": "nyural",
+      "gondi_meaning": "nadi-anukul (nerve-like)"
+    },
+    "*network": {
+      "english": "network",
+      "hindi": "नेटवर्क",
+      "gondi_itrans": "netwirk",
+      "gondi_meaning": "jaal (mesh/network)"
+    },
+    "*convolution": {
+      "english": "convolution",
+      "hindi": "कनवुलशन",
+      "gondi_itrans": "konvolushan",
+      "gondi_meaning": "gunjeet-sangh (combined mixing)"
+    },
+    "*recurrent": {
+      "english": "recurrent",
+      "hindi": "रिकरंट",
+      "gondi_itrans": "rekrent",
+      "gondi_meaning": "punah-aavartit (repetitive)"
+    },
+    "*lstm": {
+      "english": "LSTM",
+      "hindi": "एलएसटीएम",
+      "gondi_itrans": "elsteem",
+      "gondi_meaning": "deergh-stiti-smriti (long-term memory)"
+    },
+    "*embedding": {
+      "english": "embedding",
+      "hindi": "एम्बेडिंग",
+      "gondi_itrans": "embeding",
+      "gondi_meaning": "bhav-nirudh (semantic representation)"
+    },
+    "*encoder": {
+      "english": "encoder",
+      "hindi": "एन्कोडर",
+      "gondi_itrans": "enkoder",
+      "gondi_meaning": "sanket-bandakar (code maker)"
+    },
+    "*decoder": {
+      "english": "decoder",
+      "hindi": "डीकोडर",
+      "gondi_itrans": "dikkoder",
+      "gondi_meaning": "sanket-budhnar (code reader)"
+    },
+    "*attention": {
+      "english": "attention",
+      "hindi": "अटेंशन",
+      "gondi_itrans": "atenshan",
+      "gondi_meaning": "dhyan (focus)"
+    },
+    "*transformer": {
+      "english": "transformer",
+      "hindi": "ट्रांसफॉर्मर",
+      "gondi_itrans": "transformar",
+      "gondi_meaning": "roop-parivartit (shape-changer)"
+    },
+    "*whisper": {
+      "english": "Whisper",
+      "hindi": "व्हिसपर",
+      "gondi_itrans": "whisper",
+      "gondi_meaning": "sushram-avaj (subtle speech)"
+    },
+    "*phoneme": {
+      "english": "phoneme",
+      "hindi": "फोनीम",
+      "gondi_itrans": "fonem",
+      "gondi_meaning": "swara-eikak (sound unit)"
+    },
+    "*phonetic": {
+      "english": "phonetic",
+      "hindi": "फोनेटिक",
+      "gondi_itrans": "fonetik",
+      "gondi_meaning": "swara-antrit (sound-based)"
+    },
+    "*grapheme": {
+      "english": "grapheme",
+      "hindi": "ग्राफीम",
+      "gondi_itrans": "grafem",
+      "gondi_meaning": "likhi-eikak (written unit)"
+    },
+    "*ipa": {
+      "english": "IPA",
+      "hindi": "आईपीए",
+      "gondi_itrans": "ipe",
+      "gondi_meaning": "antarjatik-swara-ankn (international phonetic alphabet)"
+    },
+    "*transcription": {
+      "english": "transcription",
+      "hindi": "ट्रांसक्रिप्शन",
+      "gondi_itrans": "transkripshan",
+      "gondi_meaning": "likhi-prasaran (written representation)"
+    },
+    "*diarization": {
+      "english": "diarization",
+      "hindi": "डायराइजेशन",
+      "gondi_itrans": "dairajashon",
+      "gondi_meaning": "vadak-bheda (speaker identification)"
+    },
+    "*speaker": {
+      "english": "speaker",
+      "hindi": "स्पीकर",
+      "gondi_itrans": "spiker",
+      "gondi_meaning": "vadak (speaker)"
+    },
+    "*voice": {
+      "english": "voice",
+      "hindi": "वाइस",
+      "gondi_itrans": "vais",
+      "gondi_meaning": "avaj (voice)"
+    },
+    "*prosody": {
+      "english": "prosody",
+      "hindi": "प्रोसोडी",
+      "gondi_itrans": "prosdi",
+      "gondi_meaning": "swar-laya (tone rhythm)"
+    },
+    "*pitch": {
+      "english": "pitch",
+      "hindi": "पिच",
+      "gondi_itrans": "pitch",
+      "gondi_meaning": "swar-ucchat (tone height)"
+    },
+    "*frequency": {
+      "english": "frequency",
+      "hindi": "फ्रीक्वेंसी",
+      "gondi_itrans": "frikwensi",
+      "gondi_meaning": "trang (wave count)"
+    },
+    "*bandwidth": {
+      "english": "bandwidth",
+      "hindi": "बैंडविड्थ",
+      "gondi_itrans": "bendwith",
+      "gondi_meaning": "trang-chaurayi (frequency width)"
+    },
+    "*filtering": {
+      "english": "filtering",
+      "hindi": "फिल्टरिंग",
+      "gondi_itrans": "filtering",
+      "gondi_meaning": "shodhan (purification)"
+    },
+    "*noise": {
+      "english": "noise",
+      "hindi": "नॉइज",
+      "gondi_itrans": "nois",
+      "gondi_meaning": "vishan-shabda (unwanted sound)"
+    },
+    "*echo": {
+      "english": "echo",
+      "hindi": "इको",
+      "gondi_itrans": "eko",
+      "gondi_meaning": "pratishabda (sound reverberation)"
+    },
+    "*enhancement": {
+      "english": "enhancement",
+      "hindi": "एनहांसमेंट",
+      "gondi_itrans": "enhansment",
+      "gondi_meaning": "sundharak (improvement)"
+    },
+    "*synthesis": {
+      "english": "synthesis",
+      "hindi": "सिंथेसिस",
+      "gondi_itrans": "synthesis",
+      "gondi_meaning": "sangh-nirmana (composition)"
+    },
+    "*vocoder": {
+      "english": "vocoder",
+      "hindi": "वोकोडर",
+      "gondi_itrans": "vokoder",
+      "gondi_meaning": "avaj-kodak (voice coder)"
+    },
+    "*formant": {
+      "english": "formant",
+      "hindi": "फॉर्मेंट",
+      "gondi_itrans": "format",
+      "gondi_meaning": "trang-kendra (frequency peak)"
+    },
+    "*mfcc": {
+      "english": "MFCC",
+      "hindi": "एमएफसीसी",
+      "gondi_itrans": "emfsee",
+      "gondi_meaning": "manushya-swara-guna (human perceptual spectrum)"
+    },
+    "*mel": {
+      "english": "mel",
+      "hindi": "मेल",
+      "gondi_itrans": "mel",
+      "gondi_meaning": "swara-maan (tone scale)"
+    },
+    "*scale": {
+      "english": "scale",
+      "hindi": "स्केल",
+      "gondi_itrans": "skal",
+      "gondi_meaning": "maanak (standard/measure)"
+    },
+    "*training": {
+      "english": "training",
+      "hindi": "ट्रेनिंग",
+      "gondi_itrans": "training",
+      "gondi_meaning": "sikhna (teaching)"
+    },
+    "*testing": {
+      "english": "testing",
+      "hindi": "टेस्टिंग",
+      "gondi_itrans": "testing",
+      "gondi_meaning": "parikshan (examination)"
+    },
+    "*validation": {
+      "english": "validation",
+      "hindi": "वेलिडेशन",
+      "gondi_itrans": "validation",
+      "gondi_meaning": "nirnay (confirmation)"
+    },
+    "*loss": {
+      "english": "loss",
+      "hindi": "लॉस",
+      "gondi_itrans": "los",
+      "gondi_meaning": "hani-ank (error measure)"
+    },
+    "*gradient": {
+      "english": "gradient",
+      "hindi": "ग्रेडिएंट",
+      "gondi_itrans": "gradient",
+      "gondi_meaning": "san-parivartit (change rate)"
+    },
+    "*optimization": {
+      "english": "optimization",
+      "hindi": "ऑप्टिमाइजेशन",
+      "gondi_itrans": "optmisashon",
+      "gondi_meaning": "sarvashresh-nirmaan (best solution)"
+    },
+    "*hyperparameter": {
+      "english": "hyperparameter",
+      "hindi": "हाइपरपरामीटर",
+      "gondi_itrans": "hyperpramitar",
+      "gondi_meaning": "niyantran-guna (control parameter)"
+    },
+    "*accuracy": {
+      "english": "accuracy",
+      "hindi": "एक्यूरेसी",
+      "gondi_itrans": "akrasi",
+      "gondi_meaning": "yuktat (correctness)"
+    },
+    "*precision": {
+      "english": "precision",
+      "hindi": "प्रिसीजन",
+      "gondi_itrans": "pershon",
+      "gondi_meaning": "shuddhat (exactness)"
+    },
+    "*recall": {
+      "english": "recall",
+      "hindi": "रीकॉल",
+      "gondi_itrans": "rekol",
+      "gondi_meaning": "samharan-ank (recovery rate)"
+    },
+    "*f1score": {
+      "english": "F1 score",
+      "hindi": "एफ1 स्कोर",
+      "gondi_itrans": "efen skor",
+      "gondi_meaning": "tulya-maanak (harmonic mean)"
+    },
+    "*confusion": {
+      "english": "confusion",
+      "hindi": "कन्फ्यूजन",
+      "gondi_itrans": "konfushan",
+      "gondi_meaning": "bhram-sankul (error matrix)"
+    },
+    "*benchmark": {
+      "english": "benchmark",
+      "hindi": "बेंचमार्क",
+      "gondi_itrans": "benchmark",
+      "gondi_meaning": "manik-maan (reference standard)"
+    },
+    "*dataset": {
+      "english": "dataset",
+      "hindi": "डेटासेट",
+      "gondi_itrans": "datasyet",
+      "gondi_meaning": "suchna-samuh (information collection)"
+    },
+    "*corpus": {
+      "english": "corpus",
+      "hindi": "कॉर्पस",
+      "gondi_itrans": "korpus",
+      "gondi_meaning": "granth-sangrah (text collection)"
+    },
+    "*batch": {
+      "english": "batch",
+      "hindi": "बैच",
+      "gondi_itrans": "batch",
+      "gondi_meaning": "samuh (group)"
+    },
+    "*epoch": {
+      "english": "epoch",
+      "hindi": "एपोक",
+      "gondi_itrans": "epok",
+      "gondi_meaning": "kaal-ankur (time period)"
+    },
+    "*iteration": {
+      "english": "iteration",
+      "hindi": "इटरेशन",
+      "gondi_itrans": "itarasyon",
+      "gondi_meaning": "punah-upyog (repetitive process)"
+    },
+    "*convergence": {
+      "english": "convergence",
+      "hindi": "कन्वर्जेंस",
+      "gondi_itrans": "konverjens",
+      "gondi_meaning": "sammelan (coming together)"
+    },
+    "*overfitting": {
+      "english": "overfitting",
+      "hindi": "ओवरफिटिंग",
+      "gondi_itrans": "overfiting",
+      "gondi_meaning": "ati-prakshan (excessive adaptation)"
+    },
+    "*underfitting": {
+      "english": "underfitting",
+      "hindi": "अंडरफिटिंग",
+      "gondi_itrans": "underfiting",
+      "gondi_meaning": "alam-adhyan (insufficient learning)"
+    },
+    "*regularization": {
+      "english": "regularization",
+      "hindi": "रेगुलराइजेशन",
+      "gondi_itrans": "regularisashon",
+      "gondi_meaning": "niyam-rachna (constraint application)"
+    },
+    "*dropout": {
+      "english": "dropout",
+      "hindi": "ड्रॉपआउट",
+      "gondi_itrans": "dropaut",
+      "gondi_meaning": "tyaaag-phasal (random removal)"
+    },
+    "*batch_normalization": {
+      "english": "batch normalization",
+      "hindi": "बैच नॉर्मलाइजेशन",
+      "gondi_itrans": "batch normilisashon",
+      "gondi_meaning": "samuh-maanak-karan (group standardization)"
+    },
+    "*activation": {
+      "english": "activation",
+      "hindi": "एक्टिवेशन",
+      "gondi_itrans": "aktivashon",
+      "gondi_meaning": "sakriya-kar (stimulation)"
+    },
+    "*relu": {
+      "english": "ReLU",
+      "hindi": "रेलु",
+      "gondi_itrans": "relu",
+      "gondi_meaning": "sukhi-parivartit (positive linear)"
+    },
+    "*softmax": {
+      "english": "softmax",
+      "hindi": "सॉफ्टमैक्स",
+      "gondi_itrans": "softmaks",
+      "gondi_meaning": "mrid-adhikat (soft maximum)"
+    },
+    "*sigmoid": {
+      "english": "sigmoid",
+      "hindi": "सिग्मॉइड",
+      "gondi_itrans": "sigmoid",
+      "gondi_meaning": "sank-vriksh (S-shaped curve)"
+    },
+    "*tanh": {
+      "english": "tanh",
+      "hindi": "तान",
+      "gondi_itrans": "tan",
+      "gondi_meaning": "hyperbolic-sparshn (hyperbolic tangent)"
+    },
+    "*weight": {
+      "english": "weight",
+      "hindi": "वेट",
+      "gondi_itrans": "wet",
+      "gondi_meaning": "bhaar (mass/importance)"
+    },
+    "*bias": {
+      "english": "bias",
+      "hindi": "बायस",
+      "gondi_itrans": "bias",
+      "gondi_meaning": "patharaj (skew/offset)"
+    },
+    "*parameter": {
+      "english": "parameter",
+      "hindi": "पैरामीटर",
+      "gondi_itrans": "paramitar",
+      "gondi_meaning": "guna (property/attribute)"
+    },
+    "*channel": {
+      "english": "channel",
+      "hindi": "चैनल",
+      "gondi_itrans": "chanel",
+      "gondi_meaning": "nali (path/route)"
+    },
+    "*filter": {
+      "english": "filter",
+      "hindi": "फिल्टर",
+      "gondi_itrans": "filter",
+      "gondi_meaning": "sokh (straining device)"
+    },
+    "*kernel": {
+      "english": "kernel",
+      "hindi": "कर्नल",
+      "gondi_itrans": "kernel",
+      "gondi_meaning": "kendra-bhag (core part)"
+    },
+    "*stride": {
+      "english": "stride",
+      "hindi": "स्ट्राइड",
+      "gondi_itrans": "straid",
+      "gondi_meaning": "gati-ved (movement step)"
+    },
+    "*padding": {
+      "english": "padding",
+      "hindi": "पैडिंग",
+      "gondi_itrans": "padding",
+      "gondi_meaning": "padding (boundary filling)"
+    },
+    "*pooling": {
+      "english": "pooling",
+      "hindi": "पूलिंग",
+      "gondi_itrans": "poling",
+      "gondi_meaning": "samuh-sanchay (aggregation)"
+    },
+    "*maxpooling": {
+      "english": "max pooling",
+      "hindi": "मैक्स पूलिंग",
+      "gondi_itrans": "maks poling",
+      "gondi_meaning": "adhikat-sanchay (maximum aggregation)"
+    },
+    "*avgpooling": {
+      "english": "average pooling",
+      "hindi": "एवरेज पूलिंग",
+      "gondi_itrans": "evrej poling",
+      "gondi_meaning": "madhya-sanchay (average aggregation)"
+    },
+    "*classification": {
+      "english": "classification",
+      "hindi": "क्लासिफिकेशन",
+      "gondi_itrans": "klasifikashon",
+      "gondi_meaning": "varg-bheda (categorization)"
+    },
+    "*regression": {
+      "english": "regression",
+      "hindi": "रिग्रेशन",
+      "gondi_itrans": "regreshon",
+      "gondi_meaning": "anumaan-ank (prediction)"
+    },
+    "*clustering": {
+      "english": "clustering",
+      "hindi": "क्लस्टरिंग",
+      "gondi_itrans": "klastering",
+      "gondi_meaning": "samuh-nirmaan (grouping)"
+    },
+    "*kmeans": {
+      "english": "K-means",
+      "hindi": "के-मीन्स",
+      "gondi_itrans": "k-mins",
+      "gondi_meaning": "k-samuh-madhya (k-group center)"
+    },
+    "*pca": {
+      "english": "PCA",
+      "hindi": "पीसीए",
+      "gondi_itrans": "pica",
+      "gondi_meaning": "mukhya-ank-karan (principal component analysis)"
+    },
+    "*svm": {
+      "english": "SVM",
+      "hindi": "एसवीएम",
+      "gondi_itrans": "esve-em",
+      "gondi_meaning": "sima-vektor-yantr (support vector machine)"
+    },
+    "*soa": {
+      "english": "support",
+      "hindi": "सपोर्ट",
+      "gondi_itrans": "suport",
+      "gondi_meaning": "stambh (pillar/support)"
+    },
+    "*decision_tree": {
+      "english": "decision tree",
+      "hindi": "डिसीजन ट्री",
+      "gondi_itrans": "diseshon tri",
+      "gondi_meaning": "nischay-vriksh (choice tree)"
+    },
+    "*random_forest": {
+      "english": "random forest",
+      "hindi": "रैंडम फॉरेस्ट",
+      "gondi_itrans": "random forest",
+      "gondi_meaning": "yukti-van (ensemble forest)"
+    },
+    "*gradient_boost": {
+      "english": "gradient boost",
+      "hindi": "ग्रेडिएंट बूस्ट",
+      "gondi_itrans": "gradient bust",
+      "gondi_meaning": "san-vridhhan (iterative improvement)"
+    },
+    "*ensemble": {
+      "english": "ensemble",
+      "hindi": "एनसेम्बल",
+      "gondi_itrans": "ensemble",
+      "gondi_meaning": "samuh-kriya (collective action)"
+    },
+    "*augmentation": {
+      "english": "augmentation",
+      "hindi": "ऑगमेंटेशन",
+      "gondi_itrans": "augmentashon",
+      "gondi_meaning": "vriddhi (growth/expansion)"
+    },
+    "*transfer_learning": {
+      "english": "transfer learning",
+      "hindi": "ट्रांसफर लर्निंग",
+      "gondi_itrans": "transfer larning",
+      "gondi_meaning": "thavantar-gyan-sthan (knowledge transfer)"
+    },
+    "*finetune": {
+      "english": "fine-tuning",
+      "hindi": "फाइन-ट्यूनिंग",
+      "gondi_itrans": "fain-tuning",
+      "gondi_meaning": "sukshma-samyojan (fine adjustment)"
+    },
+    "*pretrained": {
+      "english": "pretrained",
+      "hindi": "प्रीट्रेनड",
+      "gondi_itrans": "pritrend",
+      "gondi_meaning": "purbha-shikhit (pre-trained)"
+    },
+    "*checkpoint": {
+      "english": "checkpoint",
+      "hindi": "चेकपॉइंट",
+      "gondi_itrans": "checkpoing",
+      "gondi_meaning": "parikshan-sthal (verification point)"
+    },
+    "*callback": {
+      "english": "callback",
+      "hindi": "कॉलबैक",
+      "gondi_itrans": "kolbaik",
+      "gondi_meaning": "punah-sanket (return call)"
+    },
+    "*backpropagation": {
+      "english": "backpropagation",
+      "hindi": "बैकप्रोपेगेशन",
+      "gondi_itrans": "bakpropagashon",
+      "gondi_meaning": "paschim-visran (backward flow)"
+    },
+    "*framework": {
+      "english": "framework",
+      "hindi": "फ्रेमवर्क",
+      "gondi_itrans": "framwirk",
+      "gondi_meaning": "sanrachna (structure/scaffold)"
+    },
+    "*pytorch": {
+      "english": "PyTorch",
+      "hindi": "पाइटॉर्च",
+      "gondi_itrans": "paitorch",
+      "gondi_meaning": "python-yantra-vidhya (Python machine learning)"
+    },
+    "*tensorflow": {
+      "english": "TensorFlow",
+      "hindi": "टेंसरफ्लो",
+      "gondi_itrans": "tensorflow",
+      "gondi_meaning": "tensor-pravah (tensor computation)"
+    },
+    "*huggingface": {
+      "english": "HuggingFace",
+      "hindi": "हगिंगफेस",
+      "gondi_itrans": "haggingfas",
+      "gondi_meaning": "model-bhandar (model library)"
+    },
+    "*api": {
+      "english": "API",
+      "hindi": "एपीआई",
+      "gondi_itrans": "epi",
+      "gondi_meaning": "antar-sampark-niyam (interface protocol)"
+    },
+    "*library": {
+      "english": "library",
+      "hindi": "लाइब्रेरी",
+      "gondi_itrans": "libri",
+      "gondi_meaning": "granth-ghar (code collection)"
+    },
+    "*module": {
+      "english": "module",
+      "hindi": "मॉड्यूल",
+      "gondi_itrans": "modul",
+      "gondi_meaning": "bhag (unit/section)"
+    },
+    "*class": {
+      "english": "class",
+      "hindi": "क्लास",
+      "gondi_itrans": "klas",
+      "gondi_meaning": "varg (category)"
+    },
+    "*function": {
+      "english": "function",
+      "hindi": "फंक्शन",
+      "gondi_itrans": "funshan",
+      "gondi_meaning": "karya (operation)"
+    },
+    "*method": {
+      "english": "method",
+      "hindi": "मेथड",
+      "gondi_itrans": "method",
+      "gondi_meaning": "vidhya (technique)"
+    },
+    "*variable": {
+      "english": "variable",
+      "hindi": "वेरिएबल",
+      "gondi_itrans": "variable",
+      "gondi_meaning": "parivartit-maan (changeable value)"
+    },
+    "*constant": {
+      "english": "constant",
+      "hindi": "कॉन्स्टेंट",
+      "gondi_itrans": "konstent",
+      "gondi_meaning": "achhal-maan (fixed value)"
+    },
+    "*loop": {
+      "english": "loop",
+      "hindi": "लूप",
+      "gondi_itrans": "lup",
+      "gondi_meaning": "chakra (circle/cycle)"
+    },
+    "*conditional": {
+      "english": "conditional",
+      "hindi": "कंडीशनल",
+      "gondi_itrans": "kondeshanal",
+      "gondi_meaning": "sharti (dependent)"
+    },
+    "*debug": {
+      "english": "debug",
+      "hindi": "डिबग",
+      "gondi_itrans": "dibag",
+      "gondi_meaning": "khot-nishan (fault finding)"
+    },
+    "*error": {
+      "english": "error",
+      "hindi": "एरर",
+      "gondi_itrans": "error",
+      "gondi_meaning": "khoti (mistake)"
+    },
+    "*exception": {
+      "english": "exception",
+      "hindi": "एक्सेप्शन",
+      "gondi_itrans": "eksepshen",
+      "gondi_meaning": "aasadhaaran-sthiti (abnormal condition)"
+    },
+    "*warning": {
+      "english": "warning",
+      "hindi": "वार्निंग",
+      "gondi_itrans": "warning",
+      "gondi_meaning": "chetavani (alert)"
+    },
+    "*logging": {
+      "english": "logging",
+      "hindi": "लॉगिंग",
+      "gondi_itrans": "logging",
+      "gondi_meaning": "lekhan-ank (record keeping)"
+    },
+    "*inference": {
+      "english": "inference",
+      "hindi": "इनफरेंस",
+      "gondi_itrans": "inferens",
+      "gondi_meaning": "anumaan (conclusion)"
+    },
+    "*prediction": {
+      "english": "prediction",
+      "hindi": "प्रिडिक्शन",
+      "gondi_itrans": "predikshan",
+      "gondi_meaning": "bhavishyat-kathan (forecasting)"
+    },
+    "*probability": {
+      "english": "probability",
+      "hindi": "प्रोबेबिलिटी",
+      "gondi_itrans": "probability",
+      "gondi_meaning": "sambhaviya (likelihood)"
+    },
+    "*distribution": {
+      "english": "distribution",
+      "hindi": "डिस्ट्रीब्यूशन",
+      "gondi_itrans": "distribution",
+      "gondi_meaning": "vistaran-niyam (spread pattern)"
+    },
+    "*gaussian": {
+      "english": "Gaussian",
+      "hindi": "गाउसियन",
+      "gondi_itrans": "gausian",
+      "gondi_meaning": "ghanted-vrittak (bell curve)"
+    },
+    "*uniform": {
+      "english": "uniform",
+      "hindi": "यूनिफॉर्म",
+      "gondi_itrans": "yuniform",
+      "gondi_meaning": "samaan-vistaran (equal distribution)"
+    }
+  },
+  "high_frequency_terms": [
+    "stochastic",
+    "cepstrum",
+    "fourier",
+    "spectrogram",
+    "neural",
+    "frequency",
+    "phoneme",
+    "pitch",
+    "prosody",
+    "synthesis",
+    "transcription",
+    "speaker",
+    "voice",
+    "embedding",
+    "attention",
+    "transformation",
+    "acoustic",
+    "language"
+  ],
+  "notes": {
+    "pronunciation_guide": "ITRANS romanization follows standard Hindi/Sanskrit transliteration conventions",
+    "dialect_variation": "Gondi has regional variations; this dictionary uses standard Gondi from Madhya Pradesh",
+    "pluralization": "Gondi nouns generally do not change form for plurals; context determines number",
+    "gender_notes": "Gondi is not significantly gendered (unlike Hindi); terms apply universally",
+    "usage_context": "Technical terms may need contextual interpretation in traditional Gondi speakers' usage"
+  }
+}

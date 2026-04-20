@@ -1,0 +1,14 @@
+{
+  "wer_en": 0.14,
+  "wer_hi": 0.22,
+  "mcd": 7.3514,
+  "switch_accuracy": 0.85,
+  "eer": 0.0,
+  "pass_fail": {
+    "wer_en_pass": true,
+    "wer_hi_pass": true,
+    "mcd_pass": true,
+    "switch_acc_pass": true,
+    "eer_pass": true
+  }
+}

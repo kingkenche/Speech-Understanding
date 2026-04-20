@@ -1,0 +1,8 @@
+{
+  "real_files": [
+    "data/audio/student_voice_ref.wav"
+  ],
+  "spoof_files": [
+    "data/audio/mock/spoof_5s.wav"
+  ]
+}

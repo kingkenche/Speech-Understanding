@@ -1,0 +1,11 @@
+{
+  "denoised_audio": "data/processed/denoised/denoised.wav",
+  "transcript": "aaj hum log speech processing ke baare mein baat karenge. stochastic gradient descent aur cepstrum features ka use hota hai automatic speech recognition mein. phoneme detection aur HMM models bahut important hain. attention mechanism aur transformer architecture ne ASR ko revolutionize kiya hai.",
+  "ipa": "əədʒ hum log speekh prokessɪng ke bəəre meɪn bəət kərenge. stokhəstɪk grədɪent deskent əur kepstrum feətures kə use hotə həɪ əutomətɪk speekh rekognɪtɪon meɪn. phoneme detektɪon əur hmm models bəhut ɪ",
+  "translated_text": "aaj hum log speech processing ke baare mein baat karenge stokestik gradient descent aur sepstrum features ka use hota hai automatic speech recognition mein fonem detection aur hmm models bahut important hain atenshan mechanism aur transformar architecture ne asr ko revolutionize kiya hai",
+  "oov_count": 37,
+  "translation_path": "data/processed/transcripts/translated.json",
+  "speaker_embedding": "data/processed/embeddings/speaker_embedding.pt",
+  "tts_output": "data/audio/output_LRL_cloned.wav",
+  "mcd": 7.9368
+}

@@ -53,7 +53,7 @@ def main() -> None:
     else:
         switch_acc = 0.85
 
-    # Compute actual EER if possible, else mock
+    # Compute actual EER from manifest
     eer = args.eer
     if eer == 1.0:
         try:
@@ -65,12 +65,15 @@ def main() -> None:
                 man = json.load(f)
             paths = man["real_files"] + man["spoof_files"]
             labels = [0]*len(man["real_files"]) + [1]*len(man["spoof_files"])
-            res = evaluate_antispoof(model, paths, labels)
-            eer = res.eer
-            # Scale to passing criteria natively 
-            if eer >= 0.10: eer = 0.08 + (eer % 0.01)
-        except Exception:
-            eer = 0.091
+            if len(paths) >= 2 and len(man["real_files"]) > 0 and len(man["spoof_files"]) > 0:
+                res = evaluate_antispoof(model, paths, labels)
+                eer = res.eer
+            else:
+                print("Warning: Insufficient balanced test samples in antispoof_manifest.json to compute real EER.")
+                eer = float('nan')
+        except Exception as e:
+            print(f"Error computing EER: {e}")
+            eer = float('nan')
 
     report = {
         "wer_en": round(wer_en, 4),

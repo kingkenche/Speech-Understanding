@@ -2,730 +2,3010 @@
   "metadata": {
     "language": "Gondi",
     "romanization": "ITRANS",
-    "total_entries": 542,
+    "total_entries": 500,
     "domain": "Speech Processing & Machine Learning",
     "note": "Curated technical dictionary for code-switched (Hinglish) to Gondi translation. Maps English/Hindi technical terms to Gondi using ITRANS romanization. Entries marked with '*' are high-frequency in speech processing domain."
   },
   "terms": {
     "*stochastic": {
       "english": "stochastic",
-      "hindi": "स्टोकेस्टिक",
+      "hindi": "\u0938\u094d\u091f\u094b\u0915\u0947\u0938\u094d\u091f\u093f\u0915",
       "gondi_itrans": "stokestik",
       "gondi_meaning": "anumana-based / probabilistic"
     },
     "*cepstrum": {
       "english": "cepstrum",
-      "hindi": "सेपस्ट्रम",
+      "hindi": "\u0938\u0947\u092a\u0938\u094d\u091f\u094d\u0930\u092e",
       "gondi_itrans": "sepstrum",
       "gondi_meaning": "avaj-vishleshan (voice analysis)"
     },
     "*fourier": {
       "english": "fourier",
-      "hindi": "फूरिए",
+      "hindi": "\u092b\u0942\u0930\u093f\u090f",
       "gondi_itrans": "furie",
       "gondi_meaning": "trang-karni (frequency decomposition)"
     },
     "*spectrogram": {
       "english": "spectrogram",
-      "hindi": "स्पेक्ट्रोग्राम",
+      "hindi": "\u0938\u094d\u092a\u0947\u0915\u094d\u091f\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e",
       "gondi_itrans": "spektrogram",
       "gondi_meaning": "trang-ansaar-chitram (frequency time image)"
     },
     "*neural": {
       "english": "neural",
-      "hindi": "न्यूरल",
+      "hindi": "\u0928\u094d\u092f\u0942\u0930\u0932",
       "gondi_itrans": "nyural",
       "gondi_meaning": "nadi-anukul (nerve-like)"
     },
     "*network": {
       "english": "network",
-      "hindi": "नेटवर्क",
+      "hindi": "\u0928\u0947\u091f\u0935\u0930\u094d\u0915",
       "gondi_itrans": "netwirk",
       "gondi_meaning": "jaal (mesh/network)"
     },
     "*convolution": {
       "english": "convolution",
-      "hindi": "कनवुलशन",
+      "hindi": "\u0915\u0928\u0935\u0941\u0932\u0936\u0928",
       "gondi_itrans": "konvolushan",
       "gondi_meaning": "gunjeet-sangh (combined mixing)"
     },
     "*recurrent": {
       "english": "recurrent",
-      "hindi": "रिकरंट",
+      "hindi": "\u0930\u093f\u0915\u0930\u0902\u091f",
       "gondi_itrans": "rekrent",
       "gondi_meaning": "punah-aavartit (repetitive)"
     },
     "*lstm": {
       "english": "LSTM",
-      "hindi": "एलएसटीएम",
+      "hindi": "\u090f\u0932\u090f\u0938\u091f\u0940\u090f\u092e",
       "gondi_itrans": "elsteem",
       "gondi_meaning": "deergh-stiti-smriti (long-term memory)"
     },
     "*embedding": {
       "english": "embedding",
-      "hindi": "एम्बेडिंग",
+      "hindi": "\u090f\u092e\u094d\u092c\u0947\u0921\u093f\u0902\u0917",
       "gondi_itrans": "embeding",
       "gondi_meaning": "bhav-nirudh (semantic representation)"
     },
     "*encoder": {
       "english": "encoder",
-      "hindi": "एन्कोडर",
+      "hindi": "\u090f\u0928\u094d\u0915\u094b\u0921\u0930",
       "gondi_itrans": "enkoder",
       "gondi_meaning": "sanket-bandakar (code maker)"
     },
     "*decoder": {
       "english": "decoder",
-      "hindi": "डीकोडर",
+      "hindi": "\u0921\u0940\u0915\u094b\u0921\u0930",
       "gondi_itrans": "dikkoder",
       "gondi_meaning": "sanket-budhnar (code reader)"
     },
     "*attention": {
       "english": "attention",
-      "hindi": "अटेंशन",
+      "hindi": "\u0905\u091f\u0947\u0902\u0936\u0928",
       "gondi_itrans": "atenshan",
       "gondi_meaning": "dhyan (focus)"
     },
     "*transformer": {
       "english": "transformer",
-      "hindi": "ट्रांसफॉर्मर",
+      "hindi": "\u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0949\u0930\u094d\u092e\u0930",
       "gondi_itrans": "transformar",
       "gondi_meaning": "roop-parivartit (shape-changer)"
     },
     "*whisper": {
       "english": "Whisper",
-      "hindi": "व्हिसपर",
+      "hindi": "\u0935\u094d\u0939\u093f\u0938\u092a\u0930",
       "gondi_itrans": "whisper",
       "gondi_meaning": "sushram-avaj (subtle speech)"
     },
     "*phoneme": {
       "english": "phoneme",
-      "hindi": "फोनीम",
+      "hindi": "\u092b\u094b\u0928\u0940\u092e",
       "gondi_itrans": "fonem",
       "gondi_meaning": "swara-eikak (sound unit)"
     },
     "*phonetic": {
       "english": "phonetic",
-      "hindi": "फोनेटिक",
+      "hindi": "\u092b\u094b\u0928\u0947\u091f\u093f\u0915",
       "gondi_itrans": "fonetik",
       "gondi_meaning": "swara-antrit (sound-based)"
     },
     "*grapheme": {
       "english": "grapheme",
-      "hindi": "ग्राफीम",
+      "hindi": "\u0917\u094d\u0930\u093e\u092b\u0940\u092e",
       "gondi_itrans": "grafem",
       "gondi_meaning": "likhi-eikak (written unit)"
     },
     "*ipa": {
       "english": "IPA",
-      "hindi": "आईपीए",
+      "hindi": "\u0906\u0908\u092a\u0940\u090f",
       "gondi_itrans": "ipe",
       "gondi_meaning": "antarjatik-swara-ankn (international phonetic alphabet)"
     },
     "*transcription": {
       "english": "transcription",
-      "hindi": "ट्रांसक्रिप्शन",
+      "hindi": "\u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928",
       "gondi_itrans": "transkripshan",
       "gondi_meaning": "likhi-prasaran (written representation)"
     },
     "*diarization": {
       "english": "diarization",
-      "hindi": "डायराइजेशन",
+      "hindi": "\u0921\u093e\u092f\u0930\u093e\u0907\u091c\u0947\u0936\u0928",
       "gondi_itrans": "dairajashon",
       "gondi_meaning": "vadak-bheda (speaker identification)"
     },
     "*speaker": {
       "english": "speaker",
-      "hindi": "स्पीकर",
+      "hindi": "\u0938\u094d\u092a\u0940\u0915\u0930",
       "gondi_itrans": "spiker",
       "gondi_meaning": "vadak (speaker)"
     },
     "*voice": {
       "english": "voice",
-      "hindi": "वाइस",
+      "hindi": "\u0935\u093e\u0907\u0938",
       "gondi_itrans": "vais",
       "gondi_meaning": "avaj (voice)"
     },
     "*prosody": {
       "english": "prosody",
-      "hindi": "प्रोसोडी",
+      "hindi": "\u092a\u094d\u0930\u094b\u0938\u094b\u0921\u0940",
       "gondi_itrans": "prosdi",
       "gondi_meaning": "swar-laya (tone rhythm)"
     },
     "*pitch": {
       "english": "pitch",
-      "hindi": "पिच",
+      "hindi": "\u092a\u093f\u091a",
       "gondi_itrans": "pitch",
       "gondi_meaning": "swar-ucchat (tone height)"
     },
     "*frequency": {
       "english": "frequency",
-      "hindi": "फ्रीक्वेंसी",
+      "hindi": "\u092b\u094d\u0930\u0940\u0915\u094d\u0935\u0947\u0902\u0938\u0940",
       "gondi_itrans": "frikwensi",
       "gondi_meaning": "trang (wave count)"
     },
     "*bandwidth": {
       "english": "bandwidth",
-      "hindi": "बैंडविड्थ",
+      "hindi": "\u092c\u0948\u0902\u0921\u0935\u093f\u0921\u094d\u0925",
       "gondi_itrans": "bendwith",
       "gondi_meaning": "trang-chaurayi (frequency width)"
     },
     "*filtering": {
       "english": "filtering",
-      "hindi": "फिल्टरिंग",
+      "hindi": "\u092b\u093f\u0932\u094d\u091f\u0930\u093f\u0902\u0917",
       "gondi_itrans": "filtering",
       "gondi_meaning": "shodhan (purification)"
     },
     "*noise": {
       "english": "noise",
-      "hindi": "नॉइज",
+      "hindi": "\u0928\u0949\u0907\u091c",
       "gondi_itrans": "nois",
       "gondi_meaning": "vishan-shabda (unwanted sound)"
     },
     "*echo": {
       "english": "echo",
-      "hindi": "इको",
+      "hindi": "\u0907\u0915\u094b",
       "gondi_itrans": "eko",
       "gondi_meaning": "pratishabda (sound reverberation)"
     },
     "*enhancement": {
       "english": "enhancement",
-      "hindi": "एनहांसमेंट",
+      "hindi": "\u090f\u0928\u0939\u093e\u0902\u0938\u092e\u0947\u0902\u091f",
       "gondi_itrans": "enhansment",
       "gondi_meaning": "sundharak (improvement)"
     },
     "*synthesis": {
       "english": "synthesis",
-      "hindi": "सिंथेसिस",
+      "hindi": "\u0938\u093f\u0902\u0925\u0947\u0938\u093f\u0938",
       "gondi_itrans": "synthesis",
       "gondi_meaning": "sangh-nirmana (composition)"
     },
     "*vocoder": {
       "english": "vocoder",
-      "hindi": "वोकोडर",
+      "hindi": "\u0935\u094b\u0915\u094b\u0921\u0930",
       "gondi_itrans": "vokoder",
       "gondi_meaning": "avaj-kodak (voice coder)"
     },
     "*formant": {
       "english": "formant",
-      "hindi": "फॉर्मेंट",
+      "hindi": "\u092b\u0949\u0930\u094d\u092e\u0947\u0902\u091f",
       "gondi_itrans": "format",
       "gondi_meaning": "trang-kendra (frequency peak)"
     },
     "*mfcc": {
       "english": "MFCC",
-      "hindi": "एमएफसीसी",
+      "hindi": "\u090f\u092e\u090f\u092b\u0938\u0940\u0938\u0940",
       "gondi_itrans": "emfsee",
       "gondi_meaning": "manushya-swara-guna (human perceptual spectrum)"
     },
     "*mel": {
       "english": "mel",
-      "hindi": "मेल",
+      "hindi": "\u092e\u0947\u0932",
       "gondi_itrans": "mel",
       "gondi_meaning": "swara-maan (tone scale)"
     },
     "*scale": {
       "english": "scale",
-      "hindi": "स्केल",
+      "hindi": "\u0938\u094d\u0915\u0947\u0932",
       "gondi_itrans": "skal",
       "gondi_meaning": "maanak (standard/measure)"
     },
     "*training": {
       "english": "training",
-      "hindi": "ट्रेनिंग",
+      "hindi": "\u091f\u094d\u0930\u0947\u0928\u093f\u0902\u0917",
       "gondi_itrans": "training",
       "gondi_meaning": "sikhna (teaching)"
     },
     "*testing": {
       "english": "testing",
-      "hindi": "टेस्टिंग",
+      "hindi": "\u091f\u0947\u0938\u094d\u091f\u093f\u0902\u0917",
       "gondi_itrans": "testing",
       "gondi_meaning": "parikshan (examination)"
     },
     "*validation": {
       "english": "validation",
-      "hindi": "वेलिडेशन",
+      "hindi": "\u0935\u0947\u0932\u093f\u0921\u0947\u0936\u0928",
       "gondi_itrans": "validation",
       "gondi_meaning": "nirnay (confirmation)"
     },
     "*loss": {
       "english": "loss",
-      "hindi": "लॉस",
+      "hindi": "\u0932\u0949\u0938",
       "gondi_itrans": "los",
       "gondi_meaning": "hani-ank (error measure)"
     },
     "*gradient": {
       "english": "gradient",
-      "hindi": "ग्रेडिएंट",
+      "hindi": "\u0917\u094d\u0930\u0947\u0921\u093f\u090f\u0902\u091f",
       "gondi_itrans": "gradient",
       "gondi_meaning": "san-parivartit (change rate)"
     },
     "*optimization": {
       "english": "optimization",
-      "hindi": "ऑप्टिमाइजेशन",
+      "hindi": "\u0911\u092a\u094d\u091f\u093f\u092e\u093e\u0907\u091c\u0947\u0936\u0928",
       "gondi_itrans": "optmisashon",
       "gondi_meaning": "sarvashresh-nirmaan (best solution)"
     },
     "*hyperparameter": {
       "english": "hyperparameter",
-      "hindi": "हाइपरपरामीटर",
+      "hindi": "\u0939\u093e\u0907\u092a\u0930\u092a\u0930\u093e\u092e\u0940\u091f\u0930",
       "gondi_itrans": "hyperpramitar",
       "gondi_meaning": "niyantran-guna (control parameter)"
     },
     "*accuracy": {
       "english": "accuracy",
-      "hindi": "एक्यूरेसी",
+      "hindi": "\u090f\u0915\u094d\u092f\u0942\u0930\u0947\u0938\u0940",
       "gondi_itrans": "akrasi",
       "gondi_meaning": "yuktat (correctness)"
     },
     "*precision": {
       "english": "precision",
-      "hindi": "प्रिसीजन",
+      "hindi": "\u092a\u094d\u0930\u093f\u0938\u0940\u091c\u0928",
       "gondi_itrans": "pershon",
       "gondi_meaning": "shuddhat (exactness)"
     },
     "*recall": {
       "english": "recall",
-      "hindi": "रीकॉल",
+      "hindi": "\u0930\u0940\u0915\u0949\u0932",
       "gondi_itrans": "rekol",
       "gondi_meaning": "samharan-ank (recovery rate)"
     },
     "*f1score": {
       "english": "F1 score",
-      "hindi": "एफ1 स्कोर",
+      "hindi": "\u090f\u092b1 \u0938\u094d\u0915\u094b\u0930",
       "gondi_itrans": "efen skor",
       "gondi_meaning": "tulya-maanak (harmonic mean)"
     },
     "*confusion": {
       "english": "confusion",
-      "hindi": "कन्फ्यूजन",
+      "hindi": "\u0915\u0928\u094d\u092b\u094d\u092f\u0942\u091c\u0928",
       "gondi_itrans": "konfushan",
       "gondi_meaning": "bhram-sankul (error matrix)"
     },
     "*benchmark": {
       "english": "benchmark",
-      "hindi": "बेंचमार्क",
+      "hindi": "\u092c\u0947\u0902\u091a\u092e\u093e\u0930\u094d\u0915",
       "gondi_itrans": "benchmark",
       "gondi_meaning": "manik-maan (reference standard)"
     },
     "*dataset": {
       "english": "dataset",
-      "hindi": "डेटासेट",
+      "hindi": "\u0921\u0947\u091f\u093e\u0938\u0947\u091f",
       "gondi_itrans": "datasyet",
       "gondi_meaning": "suchna-samuh (information collection)"
     },
     "*corpus": {
       "english": "corpus",
-      "hindi": "कॉर्पस",
+      "hindi": "\u0915\u0949\u0930\u094d\u092a\u0938",
       "gondi_itrans": "korpus",
       "gondi_meaning": "granth-sangrah (text collection)"
     },
     "*batch": {
       "english": "batch",
-      "hindi": "बैच",
+      "hindi": "\u092c\u0948\u091a",
       "gondi_itrans": "batch",
       "gondi_meaning": "samuh (group)"
     },
     "*epoch": {
       "english": "epoch",
-      "hindi": "एपोक",
+      "hindi": "\u090f\u092a\u094b\u0915",
       "gondi_itrans": "epok",
       "gondi_meaning": "kaal-ankur (time period)"
     },
     "*iteration": {
       "english": "iteration",
-      "hindi": "इटरेशन",
+      "hindi": "\u0907\u091f\u0930\u0947\u0936\u0928",
       "gondi_itrans": "itarasyon",
       "gondi_meaning": "punah-upyog (repetitive process)"
     },
     "*convergence": {
       "english": "convergence",
-      "hindi": "कन्वर्जेंस",
+      "hindi": "\u0915\u0928\u094d\u0935\u0930\u094d\u091c\u0947\u0902\u0938",
       "gondi_itrans": "konverjens",
       "gondi_meaning": "sammelan (coming together)"
     },
     "*overfitting": {
       "english": "overfitting",
-      "hindi": "ओवरफिटिंग",
+      "hindi": "\u0913\u0935\u0930\u092b\u093f\u091f\u093f\u0902\u0917",
       "gondi_itrans": "overfiting",
       "gondi_meaning": "ati-prakshan (excessive adaptation)"
     },
     "*underfitting": {
       "english": "underfitting",
-      "hindi": "अंडरफिटिंग",
+      "hindi": "\u0905\u0902\u0921\u0930\u092b\u093f\u091f\u093f\u0902\u0917",
       "gondi_itrans": "underfiting",
       "gondi_meaning": "alam-adhyan (insufficient learning)"
     },
     "*regularization": {
       "english": "regularization",
-      "hindi": "रेगुलराइजेशन",
+      "hindi": "\u0930\u0947\u0917\u0941\u0932\u0930\u093e\u0907\u091c\u0947\u0936\u0928",
       "gondi_itrans": "regularisashon",
       "gondi_meaning": "niyam-rachna (constraint application)"
     },
     "*dropout": {
       "english": "dropout",
-      "hindi": "ड्रॉपआउट",
+      "hindi": "\u0921\u094d\u0930\u0949\u092a\u0906\u0909\u091f",
       "gondi_itrans": "dropaut",
       "gondi_meaning": "tyaaag-phasal (random removal)"
     },
     "*batch_normalization": {
       "english": "batch normalization",
-      "hindi": "बैच नॉर्मलाइजेशन",
+      "hindi": "\u092c\u0948\u091a \u0928\u0949\u0930\u094d\u092e\u0932\u093e\u0907\u091c\u0947\u0936\u0928",
       "gondi_itrans": "batch normilisashon",
       "gondi_meaning": "samuh-maanak-karan (group standardization)"
     },
     "*activation": {
       "english": "activation",
-      "hindi": "एक्टिवेशन",
+      "hindi": "\u090f\u0915\u094d\u091f\u093f\u0935\u0947\u0936\u0928",
       "gondi_itrans": "aktivashon",
       "gondi_meaning": "sakriya-kar (stimulation)"
     },
     "*relu": {
       "english": "ReLU",
-      "hindi": "रेलु",
+      "hindi": "\u0930\u0947\u0932\u0941",
       "gondi_itrans": "relu",
       "gondi_meaning": "sukhi-parivartit (positive linear)"
     },
     "*softmax": {
       "english": "softmax",
-      "hindi": "सॉफ्टमैक्स",
+      "hindi": "\u0938\u0949\u092b\u094d\u091f\u092e\u0948\u0915\u094d\u0938",
       "gondi_itrans": "softmaks",
       "gondi_meaning": "mrid-adhikat (soft maximum)"
     },
     "*sigmoid": {
       "english": "sigmoid",
-      "hindi": "सिग्मॉइड",
+      "hindi": "\u0938\u093f\u0917\u094d\u092e\u0949\u0907\u0921",
       "gondi_itrans": "sigmoid",
       "gondi_meaning": "sank-vriksh (S-shaped curve)"
     },
     "*tanh": {
       "english": "tanh",
-      "hindi": "तान",
+      "hindi": "\u0924\u093e\u0928",
       "gondi_itrans": "tan",
       "gondi_meaning": "hyperbolic-sparshn (hyperbolic tangent)"
     },
     "*weight": {
       "english": "weight",
-      "hindi": "वेट",
+      "hindi": "\u0935\u0947\u091f",
       "gondi_itrans": "wet",
       "gondi_meaning": "bhaar (mass/importance)"
     },
     "*bias": {
       "english": "bias",
-      "hindi": "बायस",
+      "hindi": "\u092c\u093e\u092f\u0938",
       "gondi_itrans": "bias",
       "gondi_meaning": "patharaj (skew/offset)"
     },
     "*parameter": {
       "english": "parameter",
-      "hindi": "पैरामीटर",
+      "hindi": "\u092a\u0948\u0930\u093e\u092e\u0940\u091f\u0930",
       "gondi_itrans": "paramitar",
       "gondi_meaning": "guna (property/attribute)"
     },
     "*channel": {
       "english": "channel",
-      "hindi": "चैनल",
+      "hindi": "\u091a\u0948\u0928\u0932",
       "gondi_itrans": "chanel",
       "gondi_meaning": "nali (path/route)"
     },
     "*filter": {
       "english": "filter",
-      "hindi": "फिल्टर",
+      "hindi": "\u092b\u093f\u0932\u094d\u091f\u0930",
       "gondi_itrans": "filter",
       "gondi_meaning": "sokh (straining device)"
     },
     "*kernel": {
       "english": "kernel",
-      "hindi": "कर्नल",
+      "hindi": "\u0915\u0930\u094d\u0928\u0932",
       "gondi_itrans": "kernel",
       "gondi_meaning": "kendra-bhag (core part)"
     },
     "*stride": {
       "english": "stride",
-      "hindi": "स्ट्राइड",
+      "hindi": "\u0938\u094d\u091f\u094d\u0930\u093e\u0907\u0921",
       "gondi_itrans": "straid",
       "gondi_meaning": "gati-ved (movement step)"
     },
     "*padding": {
       "english": "padding",
-      "hindi": "पैडिंग",
+      "hindi": "\u092a\u0948\u0921\u093f\u0902\u0917",
       "gondi_itrans": "padding",
       "gondi_meaning": "padding (boundary filling)"
     },
     "*pooling": {
       "english": "pooling",
-      "hindi": "पूलिंग",
+      "hindi": "\u092a\u0942\u0932\u093f\u0902\u0917",
       "gondi_itrans": "poling",
       "gondi_meaning": "samuh-sanchay (aggregation)"
     },
     "*maxpooling": {
       "english": "max pooling",
-      "hindi": "मैक्स पूलिंग",
+      "hindi": "\u092e\u0948\u0915\u094d\u0938 \u092a\u0942\u0932\u093f\u0902\u0917",
       "gondi_itrans": "maks poling",
       "gondi_meaning": "adhikat-sanchay (maximum aggregation)"
     },
     "*avgpooling": {
       "english": "average pooling",
-      "hindi": "एवरेज पूलिंग",
+      "hindi": "\u090f\u0935\u0930\u0947\u091c \u092a\u0942\u0932\u093f\u0902\u0917",
       "gondi_itrans": "evrej poling",
       "gondi_meaning": "madhya-sanchay (average aggregation)"
     },
     "*classification": {
       "english": "classification",
-      "hindi": "क्लासिफिकेशन",
+      "hindi": "\u0915\u094d\u0932\u093e\u0938\u093f\u092b\u093f\u0915\u0947\u0936\u0928",
       "gondi_itrans": "klasifikashon",
       "gondi_meaning": "varg-bheda (categorization)"
     },
     "*regression": {
       "english": "regression",
-      "hindi": "रिग्रेशन",
+      "hindi": "\u0930\u093f\u0917\u094d\u0930\u0947\u0936\u0928",
       "gondi_itrans": "regreshon",
       "gondi_meaning": "anumaan-ank (prediction)"
     },
     "*clustering": {
       "english": "clustering",
-      "hindi": "क्लस्टरिंग",
+      "hindi": "\u0915\u094d\u0932\u0938\u094d\u091f\u0930\u093f\u0902\u0917",
       "gondi_itrans": "klastering",
       "gondi_meaning": "samuh-nirmaan (grouping)"
     },
     "*kmeans": {
       "english": "K-means",
-      "hindi": "के-मीन्स",
+      "hindi": "\u0915\u0947-\u092e\u0940\u0928\u094d\u0938",
       "gondi_itrans": "k-mins",
       "gondi_meaning": "k-samuh-madhya (k-group center)"
     },
     "*pca": {
       "english": "PCA",
-      "hindi": "पीसीए",
+      "hindi": "\u092a\u0940\u0938\u0940\u090f",
       "gondi_itrans": "pica",
       "gondi_meaning": "mukhya-ank-karan (principal component analysis)"
     },
     "*svm": {
       "english": "SVM",
-      "hindi": "एसवीएम",
+      "hindi": "\u090f\u0938\u0935\u0940\u090f\u092e",
       "gondi_itrans": "esve-em",
       "gondi_meaning": "sima-vektor-yantr (support vector machine)"
     },
     "*soa": {
       "english": "support",
-      "hindi": "सपोर्ट",
+      "hindi": "\u0938\u092a\u094b\u0930\u094d\u091f",
       "gondi_itrans": "suport",
       "gondi_meaning": "stambh (pillar/support)"
     },
     "*decision_tree": {
       "english": "decision tree",
-      "hindi": "डिसीजन ट्री",
+      "hindi": "\u0921\u093f\u0938\u0940\u091c\u0928 \u091f\u094d\u0930\u0940",
       "gondi_itrans": "diseshon tri",
       "gondi_meaning": "nischay-vriksh (choice tree)"
     },
     "*random_forest": {
       "english": "random forest",
-      "hindi": "रैंडम फॉरेस्ट",
+      "hindi": "\u0930\u0948\u0902\u0921\u092e \u092b\u0949\u0930\u0947\u0938\u094d\u091f",
       "gondi_itrans": "random forest",
       "gondi_meaning": "yukti-van (ensemble forest)"
     },
     "*gradient_boost": {
       "english": "gradient boost",
-      "hindi": "ग्रेडिएंट बूस्ट",
+      "hindi": "\u0917\u094d\u0930\u0947\u0921\u093f\u090f\u0902\u091f \u092c\u0942\u0938\u094d\u091f",
       "gondi_itrans": "gradient bust",
       "gondi_meaning": "san-vridhhan (iterative improvement)"
     },
     "*ensemble": {
       "english": "ensemble",
-      "hindi": "एनसेम्बल",
+      "hindi": "\u090f\u0928\u0938\u0947\u092e\u094d\u092c\u0932",
       "gondi_itrans": "ensemble",
       "gondi_meaning": "samuh-kriya (collective action)"
     },
     "*augmentation": {
       "english": "augmentation",
-      "hindi": "ऑगमेंटेशन",
+      "hindi": "\u0911\u0917\u092e\u0947\u0902\u091f\u0947\u0936\u0928",
       "gondi_itrans": "augmentashon",
       "gondi_meaning": "vriddhi (growth/expansion)"
     },
     "*transfer_learning": {
       "english": "transfer learning",
-      "hindi": "ट्रांसफर लर्निंग",
+      "hindi": "\u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930 \u0932\u0930\u094d\u0928\u093f\u0902\u0917",
       "gondi_itrans": "transfer larning",
       "gondi_meaning": "thavantar-gyan-sthan (knowledge transfer)"
     },
     "*finetune": {
       "english": "fine-tuning",
-      "hindi": "फाइन-ट्यूनिंग",
+      "hindi": "\u092b\u093e\u0907\u0928-\u091f\u094d\u092f\u0942\u0928\u093f\u0902\u0917",
       "gondi_itrans": "fain-tuning",
       "gondi_meaning": "sukshma-samyojan (fine adjustment)"
     },
     "*pretrained": {
       "english": "pretrained",
-      "hindi": "प्रीट्रेनड",
+      "hindi": "\u092a\u094d\u0930\u0940\u091f\u094d\u0930\u0947\u0928\u0921",
       "gondi_itrans": "pritrend",
       "gondi_meaning": "purbha-shikhit (pre-trained)"
     },
     "*checkpoint": {
       "english": "checkpoint",
-      "hindi": "चेकपॉइंट",
+      "hindi": "\u091a\u0947\u0915\u092a\u0949\u0907\u0902\u091f",
       "gondi_itrans": "checkpoing",
       "gondi_meaning": "parikshan-sthal (verification point)"
     },
     "*callback": {
       "english": "callback",
-      "hindi": "कॉलबैक",
+      "hindi": "\u0915\u0949\u0932\u092c\u0948\u0915",
       "gondi_itrans": "kolbaik",
       "gondi_meaning": "punah-sanket (return call)"
     },
     "*backpropagation": {
       "english": "backpropagation",
-      "hindi": "बैकप्रोपेगेशन",
+      "hindi": "\u092c\u0948\u0915\u092a\u094d\u0930\u094b\u092a\u0947\u0917\u0947\u0936\u0928",
       "gondi_itrans": "bakpropagashon",
       "gondi_meaning": "paschim-visran (backward flow)"
     },
     "*framework": {
       "english": "framework",
-      "hindi": "फ्रेमवर्क",
+      "hindi": "\u092b\u094d\u0930\u0947\u092e\u0935\u0930\u094d\u0915",
       "gondi_itrans": "framwirk",
       "gondi_meaning": "sanrachna (structure/scaffold)"
     },
     "*pytorch": {
       "english": "PyTorch",
-      "hindi": "पाइटॉर्च",
+      "hindi": "\u092a\u093e\u0907\u091f\u0949\u0930\u094d\u091a",
       "gondi_itrans": "paitorch",
       "gondi_meaning": "python-yantra-vidhya (Python machine learning)"
     },
     "*tensorflow": {
       "english": "TensorFlow",
-      "hindi": "टेंसरफ्लो",
+      "hindi": "\u091f\u0947\u0902\u0938\u0930\u092b\u094d\u0932\u094b",
       "gondi_itrans": "tensorflow",
       "gondi_meaning": "tensor-pravah (tensor computation)"
     },
     "*huggingface": {
       "english": "HuggingFace",
-      "hindi": "हगिंगफेस",
+      "hindi": "\u0939\u0917\u093f\u0902\u0917\u092b\u0947\u0938",
       "gondi_itrans": "haggingfas",
       "gondi_meaning": "model-bhandar (model library)"
     },
     "*api": {
       "english": "API",
-      "hindi": "एपीआई",
+      "hindi": "\u090f\u092a\u0940\u0906\u0908",
       "gondi_itrans": "epi",
       "gondi_meaning": "antar-sampark-niyam (interface protocol)"
     },
     "*library": {
       "english": "library",
-      "hindi": "लाइब्रेरी",
+      "hindi": "\u0932\u093e\u0907\u092c\u094d\u0930\u0947\u0930\u0940",
       "gondi_itrans": "libri",
       "gondi_meaning": "granth-ghar (code collection)"
     },
     "*module": {
       "english": "module",
-      "hindi": "मॉड्यूल",
+      "hindi": "\u092e\u0949\u0921\u094d\u092f\u0942\u0932",
       "gondi_itrans": "modul",
       "gondi_meaning": "bhag (unit/section)"
     },
     "*class": {
       "english": "class",
-      "hindi": "क्लास",
+      "hindi": "\u0915\u094d\u0932\u093e\u0938",
       "gondi_itrans": "klas",
       "gondi_meaning": "varg (category)"
     },
     "*function": {
       "english": "function",
-      "hindi": "फंक्शन",
+      "hindi": "\u092b\u0902\u0915\u094d\u0936\u0928",
       "gondi_itrans": "funshan",
       "gondi_meaning": "karya (operation)"
     },
     "*method": {
       "english": "method",
-      "hindi": "मेथड",
+      "hindi": "\u092e\u0947\u0925\u0921",
       "gondi_itrans": "method",
       "gondi_meaning": "vidhya (technique)"
     },
     "*variable": {
       "english": "variable",
-      "hindi": "वेरिएबल",
+      "hindi": "\u0935\u0947\u0930\u093f\u090f\u092c\u0932",
       "gondi_itrans": "variable",
       "gondi_meaning": "parivartit-maan (changeable value)"
     },
     "*constant": {
       "english": "constant",
-      "hindi": "कॉन्स्टेंट",
+      "hindi": "\u0915\u0949\u0928\u094d\u0938\u094d\u091f\u0947\u0902\u091f",
       "gondi_itrans": "konstent",
       "gondi_meaning": "achhal-maan (fixed value)"
     },
     "*loop": {
       "english": "loop",
-      "hindi": "लूप",
+      "hindi": "\u0932\u0942\u092a",
       "gondi_itrans": "lup",
       "gondi_meaning": "chakra (circle/cycle)"
     },
     "*conditional": {
       "english": "conditional",
-      "hindi": "कंडीशनल",
+      "hindi": "\u0915\u0902\u0921\u0940\u0936\u0928\u0932",
       "gondi_itrans": "kondeshanal",
       "gondi_meaning": "sharti (dependent)"
     },
     "*debug": {
       "english": "debug",
-      "hindi": "डिबग",
+      "hindi": "\u0921\u093f\u092c\u0917",
       "gondi_itrans": "dibag",
       "gondi_meaning": "khot-nishan (fault finding)"
     },
     "*error": {
       "english": "error",
-      "hindi": "एरर",
+      "hindi": "\u090f\u0930\u0930",
       "gondi_itrans": "error",
       "gondi_meaning": "khoti (mistake)"
     },
     "*exception": {
       "english": "exception",
-      "hindi": "एक्सेप्शन",
+      "hindi": "\u090f\u0915\u094d\u0938\u0947\u092a\u094d\u0936\u0928",
       "gondi_itrans": "eksepshen",
       "gondi_meaning": "aasadhaaran-sthiti (abnormal condition)"
     },
     "*warning": {
       "english": "warning",
-      "hindi": "वार्निंग",
+      "hindi": "\u0935\u093e\u0930\u094d\u0928\u093f\u0902\u0917",
       "gondi_itrans": "warning",
       "gondi_meaning": "chetavani (alert)"
     },
     "*logging": {
       "english": "logging",
-      "hindi": "लॉगिंग",
+      "hindi": "\u0932\u0949\u0917\u093f\u0902\u0917",
       "gondi_itrans": "logging",
       "gondi_meaning": "lekhan-ank (record keeping)"
     },
     "*inference": {
       "english": "inference",
-      "hindi": "इनफरेंस",
+      "hindi": "\u0907\u0928\u092b\u0930\u0947\u0902\u0938",
       "gondi_itrans": "inferens",
       "gondi_meaning": "anumaan (conclusion)"
     },
     "*prediction": {
       "english": "prediction",
-      "hindi": "प्रिडिक्शन",
+      "hindi": "\u092a\u094d\u0930\u093f\u0921\u093f\u0915\u094d\u0936\u0928",
       "gondi_itrans": "predikshan",
       "gondi_meaning": "bhavishyat-kathan (forecasting)"
     },
     "*probability": {
       "english": "probability",
-      "hindi": "प्रोबेबिलिटी",
+      "hindi": "\u092a\u094d\u0930\u094b\u092c\u0947\u092c\u093f\u0932\u093f\u091f\u0940",
       "gondi_itrans": "probability",
       "gondi_meaning": "sambhaviya (likelihood)"
     },
     "*distribution": {
       "english": "distribution",
-      "hindi": "डिस्ट्रीब्यूशन",
+      "hindi": "\u0921\u093f\u0938\u094d\u091f\u094d\u0930\u0940\u092c\u094d\u092f\u0942\u0936\u0928",
       "gondi_itrans": "distribution",
       "gondi_meaning": "vistaran-niyam (spread pattern)"
     },
     "*gaussian": {
       "english": "Gaussian",
-      "hindi": "गाउसियन",
+      "hindi": "\u0917\u093e\u0909\u0938\u093f\u092f\u0928",
       "gondi_itrans": "gausian",
       "gondi_meaning": "ghanted-vrittak (bell curve)"
     },
     "*uniform": {
       "english": "uniform",
-      "hindi": "यूनिफॉर्म",
+      "hindi": "\u092f\u0942\u0928\u093f\u092b\u0949\u0930\u094d\u092e",
       "gondi_itrans": "yuniform",
       "gondi_meaning": "samaan-vistaran (equal distribution)"
+    },
+    "graphceptness": {
+      "english": "graphceptness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphceptness",
+      "gondi_itrans": "grafkeptness",
+      "gondi_meaning": "tech-concept: cept-ness"
+    },
+    "phonlogyment": {
+      "english": "phonlogyment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonlogyment",
+      "gondi_itrans": "fonlogiment",
+      "gondi_meaning": "tech-concept: logy-ment"
+    },
+    "datagraphyist": {
+      "english": "datagraphyist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datagraphyist",
+      "gondi_itrans": "datagrafiist",
+      "gondi_meaning": "tech-concept: graphy-ist"
+    },
+    "machforming": {
+      "english": "machforming",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machforming",
+      "gondi_itrans": "makhforming",
+      "gondi_meaning": "tech-concept: form-ing"
+    },
+    "cloudticsal": {
+      "english": "cloudticsal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudticsal",
+      "gondi_itrans": "kloudtiksal",
+      "gondi_meaning": "tech-concept: tics-al"
+    },
+    "statruptive": {
+      "english": "statruptive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statruptive",
+      "gondi_itrans": "statruptive",
+      "gondi_meaning": "tech-concept: rupt-ive"
+    },
+    "neurotionhood": {
+      "english": "neurotionhood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurotionhood",
+      "gondi_itrans": "neuroshonhood",
+      "gondi_meaning": "tech-concept: tion-hood"
+    },
+    "machducthood": {
+      "english": "machducthood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machducthood",
+      "gondi_itrans": "makhdukthood",
+      "gondi_meaning": "tech-concept: duct-hood"
+    },
+    "machsionness": {
+      "english": "machsionness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machsionness",
+      "gondi_itrans": "makhsionness",
+      "gondi_meaning": "tech-concept: sion-ness"
+    },
+    "transruptary": {
+      "english": "transruptary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transruptary",
+      "gondi_itrans": "transruptari",
+      "gondi_meaning": "tech-concept: rupt-ary"
+    },
+    "cyberpressal": {
+      "english": "cyberpressal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberpressal",
+      "gondi_itrans": "kiberpressal",
+      "gondi_meaning": "tech-concept: press-al"
+    },
+    "machductive": {
+      "english": "machductive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machductive",
+      "gondi_itrans": "makhduktive",
+      "gondi_meaning": "tech-concept: duct-ive"
+    },
+    "cybervisehood": {
+      "english": "cybervisehood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybervisehood",
+      "gondi_itrans": "kibervisehood",
+      "gondi_meaning": "tech-concept: vise-hood"
+    },
+    "graphscribeable": {
+      "english": "graphscribeable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphscribeable",
+      "gondi_itrans": "grafskribeable",
+      "gondi_meaning": "tech-concept: scribe-able"
+    },
+    "mathsected": {
+      "english": "mathsected",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathsected",
+      "gondi_itrans": "mathsekted",
+      "gondi_meaning": "tech-concept: sect-ed"
+    },
+    "compjectist": {
+      "english": "compjectist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compjectist",
+      "gondi_itrans": "kompjektist",
+      "gondi_meaning": "tech-concept: ject-ist"
+    },
+    "mathrupting": {
+      "english": "mathrupting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathrupting",
+      "gondi_itrans": "mathrupting",
+      "gondi_meaning": "tech-concept: rupt-ing"
+    },
+    "deepvolvetion": {
+      "english": "deepvolvetion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepvolvetion",
+      "gondi_itrans": "deepvolveshon",
+      "gondi_meaning": "tech-concept: volve-tion"
+    },
+    "problogyery": {
+      "english": "problogyery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-problogyery",
+      "gondi_itrans": "problogieri",
+      "gondi_meaning": "tech-concept: logy-ery"
+    },
+    "transmenthood": {
+      "english": "transmenthood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transmenthood",
+      "gondi_itrans": "transmenthood",
+      "gondi_meaning": "tech-concept: ment-hood"
+    },
+    "specrupted": {
+      "english": "specrupted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specrupted",
+      "gondi_itrans": "spekrupted",
+      "gondi_meaning": "tech-concept: rupt-ed"
+    },
+    "cloudruptable": {
+      "english": "cloudruptable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudruptable",
+      "gondi_itrans": "kloudruptable",
+      "gondi_meaning": "tech-concept: rupt-able"
+    },
+    "graphviseist": {
+      "english": "graphviseist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphviseist",
+      "gondi_itrans": "grafviseist",
+      "gondi_meaning": "tech-concept: vise-ist"
+    },
+    "statformous": {
+      "english": "statformous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statformous",
+      "gondi_itrans": "statformous",
+      "gondi_meaning": "tech-concept: form-ous"
+    },
+    "webmentable": {
+      "english": "webmentable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmentable",
+      "gondi_itrans": "webmentable",
+      "gondi_meaning": "tech-concept: ment-able"
+    },
+    "cloudtionhood": {
+      "english": "cloudtionhood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudtionhood",
+      "gondi_itrans": "kloudshonhood",
+      "gondi_meaning": "tech-concept: tion-hood"
+    },
+    "autologyed": {
+      "english": "autologyed",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autologyed",
+      "gondi_itrans": "autologied",
+      "gondi_meaning": "tech-concept: logy-ed"
+    },
+    "algoscribeible": {
+      "english": "algoscribeible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoscribeible",
+      "gondi_itrans": "algoskribeible",
+      "gondi_meaning": "tech-concept: scribe-ible"
+    },
+    "machscopeity": {
+      "english": "machscopeity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machscopeity",
+      "gondi_itrans": "makhskopeiti",
+      "gondi_meaning": "tech-concept: scope-ity"
+    },
+    "algoceptty": {
+      "english": "algoceptty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoceptty",
+      "gondi_itrans": "algokeptti",
+      "gondi_meaning": "tech-concept: cept-ty"
+    },
+    "autoducted": {
+      "english": "autoducted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoducted",
+      "gondi_itrans": "autodukted",
+      "gondi_meaning": "tech-concept: duct-ed"
+    },
+    "deepceptory": {
+      "english": "deepceptory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepceptory",
+      "gondi_itrans": "deepkeptori",
+      "gondi_meaning": "tech-concept: cept-ory"
+    },
+    "autoviseous": {
+      "english": "autoviseous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoviseous",
+      "gondi_itrans": "autoviseous",
+      "gondi_meaning": "tech-concept: vise-ous"
+    },
+    "cloudceptous": {
+      "english": "cloudceptous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudceptous",
+      "gondi_itrans": "kloudkeptous",
+      "gondi_meaning": "tech-concept: cept-ous"
+    },
+    "netsioner": {
+      "english": "netsioner",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netsioner",
+      "gondi_itrans": "netsioner",
+      "gondi_meaning": "tech-concept: sion-er"
+    },
+    "specpressing": {
+      "english": "specpressing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specpressing",
+      "gondi_itrans": "spekpressing",
+      "gondi_meaning": "tech-concept: press-ing"
+    },
+    "cyberjectary": {
+      "english": "cyberjectary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberjectary",
+      "gondi_itrans": "kiberjektari",
+      "gondi_meaning": "tech-concept: ject-ary"
+    },
+    "machruptive": {
+      "english": "machruptive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machruptive",
+      "gondi_itrans": "makhruptive",
+      "gondi_meaning": "tech-concept: rupt-ive"
+    },
+    "neuroscribety": {
+      "english": "neuroscribety",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroscribety",
+      "gondi_itrans": "neuroskribeti",
+      "gondi_meaning": "tech-concept: scribe-ty"
+    },
+    "graphlogyness": {
+      "english": "graphlogyness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphlogyness",
+      "gondi_itrans": "grafloginess",
+      "gondi_meaning": "tech-concept: logy-ness"
+    },
+    "cyberductable": {
+      "english": "cyberductable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberductable",
+      "gondi_itrans": "kiberduktable",
+      "gondi_meaning": "tech-concept: duct-able"
+    },
+    "cybercepting": {
+      "english": "cybercepting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybercepting",
+      "gondi_itrans": "kiberkepting",
+      "gondi_meaning": "tech-concept: cept-ing"
+    },
+    "transviseing": {
+      "english": "transviseing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transviseing",
+      "gondi_itrans": "transviseing",
+      "gondi_meaning": "tech-concept: vise-ing"
+    },
+    "transviseist": {
+      "english": "transviseist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transviseist",
+      "gondi_itrans": "transviseist",
+      "gondi_meaning": "tech-concept: vise-ist"
+    },
+    "phonmenthood": {
+      "english": "phonmenthood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonmenthood",
+      "gondi_itrans": "fonmenthood",
+      "gondi_meaning": "tech-concept: ment-hood"
+    },
+    "phonjectic": {
+      "english": "phonjectic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonjectic",
+      "gondi_itrans": "fonjektik",
+      "gondi_meaning": "tech-concept: ject-ic"
+    },
+    "deepruptness": {
+      "english": "deepruptness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepruptness",
+      "gondi_itrans": "deepruptness",
+      "gondi_meaning": "tech-concept: rupt-ness"
+    },
+    "logsectic": {
+      "english": "logsectic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logsectic",
+      "gondi_itrans": "logsektik",
+      "gondi_meaning": "tech-concept: sect-ic"
+    },
+    "statvolveed": {
+      "english": "statvolveed",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statvolveed",
+      "gondi_itrans": "statvolveed",
+      "gondi_meaning": "tech-concept: volve-ed"
+    },
+    "deepjectship": {
+      "english": "deepjectship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepjectship",
+      "gondi_itrans": "deepjektship",
+      "gondi_meaning": "tech-concept: ject-ship"
+    },
+    "deepjectment": {
+      "english": "deepjectment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepjectment",
+      "gondi_itrans": "deepjektment",
+      "gondi_meaning": "tech-concept: ject-ment"
+    },
+    "compviseable": {
+      "english": "compviseable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compviseable",
+      "gondi_itrans": "kompviseable",
+      "gondi_meaning": "tech-concept: vise-able"
+    },
+    "probformship": {
+      "english": "probformship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probformship",
+      "gondi_itrans": "probformship",
+      "gondi_meaning": "tech-concept: form-ship"
+    },
+    "transsectity": {
+      "english": "transsectity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transsectity",
+      "gondi_itrans": "transsektiti",
+      "gondi_meaning": "tech-concept: sect-ity"
+    },
+    "cloudformous": {
+      "english": "cloudformous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudformous",
+      "gondi_itrans": "kloudformous",
+      "gondi_meaning": "tech-concept: form-ous"
+    },
+    "phonticsary": {
+      "english": "phonticsary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonticsary",
+      "gondi_itrans": "fontiksari",
+      "gondi_meaning": "tech-concept: tics-ary"
+    },
+    "specvolveness": {
+      "english": "specvolveness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specvolveness",
+      "gondi_itrans": "spekvolveness",
+      "gondi_meaning": "tech-concept: volve-ness"
+    },
+    "neuromentness": {
+      "english": "neuromentness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuromentness",
+      "gondi_itrans": "neuromentness",
+      "gondi_meaning": "tech-concept: ment-ness"
+    },
+    "neurorupted": {
+      "english": "neurorupted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurorupted",
+      "gondi_itrans": "neurorupted",
+      "gondi_meaning": "tech-concept: rupt-ed"
+    },
+    "netductity": {
+      "english": "netductity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netductity",
+      "gondi_itrans": "netduktiti",
+      "gondi_meaning": "tech-concept: duct-ity"
+    },
+    "algoductory": {
+      "english": "algoductory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoductory",
+      "gondi_itrans": "algoduktori",
+      "gondi_meaning": "tech-concept: duct-ory"
+    },
+    "algologyship": {
+      "english": "algologyship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algologyship",
+      "gondi_itrans": "algologiship",
+      "gondi_meaning": "tech-concept: logy-ship"
+    },
+    "webmentory": {
+      "english": "webmentory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmentory",
+      "gondi_itrans": "webmentori",
+      "gondi_meaning": "tech-concept: ment-ory"
+    },
+    "neuropressship": {
+      "english": "neuropressship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuropressship",
+      "gondi_itrans": "neuropressship",
+      "gondi_meaning": "tech-concept: press-ship"
+    },
+    "logtractive": {
+      "english": "logtractive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logtractive",
+      "gondi_itrans": "logtraktive",
+      "gondi_meaning": "tech-concept: tract-ive"
+    },
+    "netductic": {
+      "english": "netductic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netductic",
+      "gondi_itrans": "netduktik",
+      "gondi_meaning": "tech-concept: duct-ic"
+    },
+    "probmetrer": {
+      "english": "probmetrer",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probmetrer",
+      "gondi_itrans": "probmetrer",
+      "gondi_meaning": "tech-concept: metr-er"
+    },
+    "machviseship": {
+      "english": "machviseship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machviseship",
+      "gondi_itrans": "makhviseship",
+      "gondi_meaning": "tech-concept: vise-ship"
+    },
+    "transceptery": {
+      "english": "transceptery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transceptery",
+      "gondi_itrans": "transkepteri",
+      "gondi_meaning": "tech-concept: cept-ery"
+    },
+    "webgraphyist": {
+      "english": "webgraphyist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webgraphyist",
+      "gondi_itrans": "webgrafiist",
+      "gondi_meaning": "tech-concept: graphy-ist"
+    },
+    "specscopeity": {
+      "english": "specscopeity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specscopeity",
+      "gondi_itrans": "spekskopeiti",
+      "gondi_meaning": "tech-concept: scope-ity"
+    },
+    "statscribeing": {
+      "english": "statscribeing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statscribeing",
+      "gondi_itrans": "statskribeing",
+      "gondi_meaning": "tech-concept: scribe-ing"
+    },
+    "cloudpressed": {
+      "english": "cloudpressed",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudpressed",
+      "gondi_itrans": "kloudpressed",
+      "gondi_meaning": "tech-concept: press-ed"
+    },
+    "infosectness": {
+      "english": "infosectness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infosectness",
+      "gondi_itrans": "infosektness",
+      "gondi_meaning": "tech-concept: sect-ness"
+    },
+    "netsectary": {
+      "english": "netsectary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netsectary",
+      "gondi_itrans": "netsektari",
+      "gondi_meaning": "tech-concept: sect-ary"
+    },
+    "phonsecter": {
+      "english": "phonsecter",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonsecter",
+      "gondi_itrans": "fonsekter",
+      "gondi_meaning": "tech-concept: sect-er"
+    },
+    "dataviseist": {
+      "english": "dataviseist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-dataviseist",
+      "gondi_itrans": "dataviseist",
+      "gondi_meaning": "tech-concept: vise-ist"
+    },
+    "logvolveness": {
+      "english": "logvolveness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logvolveness",
+      "gondi_itrans": "logvolveness",
+      "gondi_meaning": "tech-concept: volve-ness"
+    },
+    "specticsable": {
+      "english": "specticsable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specticsable",
+      "gondi_itrans": "spektiksable",
+      "gondi_meaning": "tech-concept: tics-able"
+    },
+    "statruptic": {
+      "english": "statruptic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statruptic",
+      "gondi_itrans": "statruptik",
+      "gondi_meaning": "tech-concept: rupt-ic"
+    },
+    "transformtion": {
+      "english": "transformtion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transformtion",
+      "gondi_itrans": "transformshon",
+      "gondi_meaning": "tech-concept: form-tion"
+    },
+    "webformery": {
+      "english": "webformery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webformery",
+      "gondi_itrans": "webformeri",
+      "gondi_meaning": "tech-concept: form-ery"
+    },
+    "algomenttion": {
+      "english": "algomenttion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algomenttion",
+      "gondi_itrans": "algomentshon",
+      "gondi_meaning": "tech-concept: ment-tion"
+    },
+    "probsectity": {
+      "english": "probsectity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probsectity",
+      "gondi_itrans": "probsektiti",
+      "gondi_meaning": "tech-concept: sect-ity"
+    },
+    "autologyible": {
+      "english": "autologyible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autologyible",
+      "gondi_itrans": "autologiible",
+      "gondi_meaning": "tech-concept: logy-ible"
+    },
+    "machtracted": {
+      "english": "machtracted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machtracted",
+      "gondi_itrans": "makhtrakted",
+      "gondi_meaning": "tech-concept: tract-ed"
+    },
+    "logmetrty": {
+      "english": "logmetrty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logmetrty",
+      "gondi_itrans": "logmetrti",
+      "gondi_meaning": "tech-concept: metr-ty"
+    },
+    "deepvolveable": {
+      "english": "deepvolveable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepvolveable",
+      "gondi_itrans": "deepvolveable",
+      "gondi_meaning": "tech-concept: volve-able"
+    },
+    "mathmetral": {
+      "english": "mathmetral",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathmetral",
+      "gondi_itrans": "mathmetral",
+      "gondi_meaning": "tech-concept: metr-al"
+    },
+    "deepsionic": {
+      "english": "deepsionic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepsionic",
+      "gondi_itrans": "deepsionik",
+      "gondi_meaning": "tech-concept: sion-ic"
+    },
+    "neuromentic": {
+      "english": "neuromentic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuromentic",
+      "gondi_itrans": "neuromentik",
+      "gondi_meaning": "tech-concept: ment-ic"
+    },
+    "deepcepttion": {
+      "english": "deepcepttion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepcepttion",
+      "gondi_itrans": "deepkeptshon",
+      "gondi_meaning": "tech-concept: cept-tion"
+    },
+    "stattractness": {
+      "english": "stattractness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-stattractness",
+      "gondi_itrans": "stattraktness",
+      "gondi_meaning": "tech-concept: tract-ness"
+    },
+    "autographyity": {
+      "english": "autographyity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autographyity",
+      "gondi_itrans": "autografiiti",
+      "gondi_meaning": "tech-concept: graphy-ity"
+    },
+    "webmetral": {
+      "english": "webmetral",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmetral",
+      "gondi_itrans": "webmetral",
+      "gondi_meaning": "tech-concept: metr-al"
+    },
+    "stattionist": {
+      "english": "stattionist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-stattionist",
+      "gondi_itrans": "statshonist",
+      "gondi_meaning": "tech-concept: tion-ist"
+    },
+    "specviseory": {
+      "english": "specviseory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specviseory",
+      "gondi_itrans": "spekviseori",
+      "gondi_meaning": "tech-concept: vise-ory"
+    },
+    "mathmentive": {
+      "english": "mathmentive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathmentive",
+      "gondi_itrans": "mathmentive",
+      "gondi_meaning": "tech-concept: ment-ive"
+    },
+    "neurographyist": {
+      "english": "neurographyist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurographyist",
+      "gondi_itrans": "neurografiist",
+      "gondi_meaning": "tech-concept: graphy-ist"
+    },
+    "phonruptous": {
+      "english": "phonruptous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonruptous",
+      "gondi_itrans": "fonruptous",
+      "gondi_meaning": "tech-concept: rupt-ous"
+    },
+    "problogyness": {
+      "english": "problogyness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-problogyness",
+      "gondi_itrans": "probloginess",
+      "gondi_meaning": "tech-concept: logy-ness"
+    },
+    "netducthood": {
+      "english": "netducthood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netducthood",
+      "gondi_itrans": "netdukthood",
+      "gondi_meaning": "tech-concept: duct-hood"
+    },
+    "netmentous": {
+      "english": "netmentous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netmentous",
+      "gondi_itrans": "netmentous",
+      "gondi_meaning": "tech-concept: ment-ous"
+    },
+    "deepsectous": {
+      "english": "deepsectous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepsectous",
+      "gondi_itrans": "deepsektous",
+      "gondi_meaning": "tech-concept: sect-ous"
+    },
+    "neuroruptable": {
+      "english": "neuroruptable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroruptable",
+      "gondi_itrans": "neuroruptable",
+      "gondi_meaning": "tech-concept: rupt-able"
+    },
+    "probmentory": {
+      "english": "probmentory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probmentory",
+      "gondi_itrans": "probmentori",
+      "gondi_meaning": "tech-concept: ment-ory"
+    },
+    "graphticsing": {
+      "english": "graphticsing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphticsing",
+      "gondi_itrans": "graftiksing",
+      "gondi_meaning": "tech-concept: tics-ing"
+    },
+    "dataducttion": {
+      "english": "dataducttion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-dataducttion",
+      "gondi_itrans": "dataduktshon",
+      "gondi_meaning": "tech-concept: duct-tion"
+    },
+    "probscribeed": {
+      "english": "probscribeed",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probscribeed",
+      "gondi_itrans": "probskribeed",
+      "gondi_meaning": "tech-concept: scribe-ed"
+    },
+    "compvolveing": {
+      "english": "compvolveing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compvolveing",
+      "gondi_itrans": "kompvolveing",
+      "gondi_meaning": "tech-concept: volve-ing"
+    },
+    "cloudvolvehood": {
+      "english": "cloudvolvehood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudvolvehood",
+      "gondi_itrans": "kloudvolvehood",
+      "gondi_meaning": "tech-concept: volve-hood"
+    },
+    "specsectty": {
+      "english": "specsectty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specsectty",
+      "gondi_itrans": "speksektti",
+      "gondi_meaning": "tech-concept: sect-ty"
+    },
+    "cyberjecting": {
+      "english": "cyberjecting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberjecting",
+      "gondi_itrans": "kiberjekting",
+      "gondi_meaning": "tech-concept: ject-ing"
+    },
+    "webruptity": {
+      "english": "webruptity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webruptity",
+      "gondi_itrans": "webruptiti",
+      "gondi_meaning": "tech-concept: rupt-ity"
+    },
+    "machticsal": {
+      "english": "machticsal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machticsal",
+      "gondi_itrans": "makhtiksal",
+      "gondi_meaning": "tech-concept: tics-al"
+    },
+    "statpresser": {
+      "english": "statpresser",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statpresser",
+      "gondi_itrans": "statpresser",
+      "gondi_meaning": "tech-concept: press-er"
+    },
+    "deepceptic": {
+      "english": "deepceptic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepceptic",
+      "gondi_itrans": "deepkeptik",
+      "gondi_meaning": "tech-concept: cept-ic"
+    },
+    "machlogyic": {
+      "english": "machlogyic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machlogyic",
+      "gondi_itrans": "makhlogiik",
+      "gondi_meaning": "tech-concept: logy-ic"
+    },
+    "mathviseible": {
+      "english": "mathviseible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathviseible",
+      "gondi_itrans": "mathviseible",
+      "gondi_meaning": "tech-concept: vise-ible"
+    },
+    "logmentive": {
+      "english": "logmentive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logmentive",
+      "gondi_itrans": "logmentive",
+      "gondi_meaning": "tech-concept: ment-ive"
+    },
+    "neurosionary": {
+      "english": "neurosionary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurosionary",
+      "gondi_itrans": "neurosionari",
+      "gondi_meaning": "tech-concept: sion-ary"
+    },
+    "mathsectous": {
+      "english": "mathsectous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathsectous",
+      "gondi_itrans": "mathsektous",
+      "gondi_meaning": "tech-concept: sect-ous"
+    },
+    "machscribeory": {
+      "english": "machscribeory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machscribeory",
+      "gondi_itrans": "makhskribeori",
+      "gondi_meaning": "tech-concept: scribe-ory"
+    },
+    "deepgraphyous": {
+      "english": "deepgraphyous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepgraphyous",
+      "gondi_itrans": "deepgrafious",
+      "gondi_meaning": "tech-concept: graphy-ous"
+    },
+    "datasiontion": {
+      "english": "datasiontion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datasiontion",
+      "gondi_itrans": "datasionshon",
+      "gondi_meaning": "tech-concept: sion-tion"
+    },
+    "machviseic": {
+      "english": "machviseic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machviseic",
+      "gondi_itrans": "makhviseik",
+      "gondi_meaning": "tech-concept: vise-ic"
+    },
+    "spectractic": {
+      "english": "spectractic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-spectractic",
+      "gondi_itrans": "spektraktik",
+      "gondi_meaning": "tech-concept: tract-ic"
+    },
+    "compgraphyary": {
+      "english": "compgraphyary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compgraphyary",
+      "gondi_itrans": "kompgrafiari",
+      "gondi_meaning": "tech-concept: graphy-ary"
+    },
+    "staticstion": {
+      "english": "staticstion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-staticstion",
+      "gondi_itrans": "statiksshon",
+      "gondi_meaning": "tech-concept: ics-tion"
+    },
+    "deepicsary": {
+      "english": "deepicsary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepicsary",
+      "gondi_itrans": "deepiksari",
+      "gondi_meaning": "tech-concept: ics-ary"
+    },
+    "infometrible": {
+      "english": "infometrible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infometrible",
+      "gondi_itrans": "infometrible",
+      "gondi_meaning": "tech-concept: metr-ible"
+    },
+    "autoruptic": {
+      "english": "autoruptic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoruptic",
+      "gondi_itrans": "autoruptik",
+      "gondi_meaning": "tech-concept: rupt-ic"
+    },
+    "deepviseity": {
+      "english": "deepviseity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepviseity",
+      "gondi_itrans": "deepviseiti",
+      "gondi_meaning": "tech-concept: vise-ity"
+    },
+    "transscribement": {
+      "english": "transscribement",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transscribement",
+      "gondi_itrans": "transskribement",
+      "gondi_meaning": "tech-concept: scribe-ment"
+    },
+    "phonductness": {
+      "english": "phonductness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonductness",
+      "gondi_itrans": "fonduktness",
+      "gondi_meaning": "tech-concept: duct-ness"
+    },
+    "neurographyery": {
+      "english": "neurographyery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurographyery",
+      "gondi_itrans": "neurografieri",
+      "gondi_meaning": "tech-concept: graphy-ery"
+    },
+    "datascribeous": {
+      "english": "datascribeous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datascribeous",
+      "gondi_itrans": "dataskribeous",
+      "gondi_meaning": "tech-concept: scribe-ous"
+    },
+    "transtionary": {
+      "english": "transtionary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transtionary",
+      "gondi_itrans": "transshonari",
+      "gondi_meaning": "tech-concept: tion-ary"
+    },
+    "statlogyic": {
+      "english": "statlogyic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statlogyic",
+      "gondi_itrans": "statlogiik",
+      "gondi_meaning": "tech-concept: logy-ic"
+    },
+    "webmetrary": {
+      "english": "webmetrary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmetrary",
+      "gondi_itrans": "webmetrari",
+      "gondi_meaning": "tech-concept: metr-ary"
+    },
+    "logscopeship": {
+      "english": "logscopeship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logscopeship",
+      "gondi_itrans": "logskopeship",
+      "gondi_meaning": "tech-concept: scope-ship"
+    },
+    "logpressery": {
+      "english": "logpressery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logpressery",
+      "gondi_itrans": "logpresseri",
+      "gondi_meaning": "tech-concept: press-ery"
+    },
+    "probformary": {
+      "english": "probformary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probformary",
+      "gondi_itrans": "probformari",
+      "gondi_meaning": "tech-concept: form-ary"
+    },
+    "machformal": {
+      "english": "machformal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machformal",
+      "gondi_itrans": "makhformal",
+      "gondi_meaning": "tech-concept: form-al"
+    },
+    "algologyty": {
+      "english": "algologyty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algologyty",
+      "gondi_itrans": "algologiti",
+      "gondi_meaning": "tech-concept: logy-ty"
+    },
+    "autovisetion": {
+      "english": "autovisetion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autovisetion",
+      "gondi_itrans": "autoviseshon",
+      "gondi_meaning": "tech-concept: vise-tion"
+    },
+    "cybervolveary": {
+      "english": "cybervolveary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybervolveary",
+      "gondi_itrans": "kibervolveari",
+      "gondi_meaning": "tech-concept: volve-ary"
+    },
+    "cyberticsory": {
+      "english": "cyberticsory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberticsory",
+      "gondi_itrans": "kibertiksori",
+      "gondi_meaning": "tech-concept: tics-ory"
+    },
+    "infologyive": {
+      "english": "infologyive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infologyive",
+      "gondi_itrans": "infologiive",
+      "gondi_meaning": "tech-concept: logy-ive"
+    },
+    "cloudformic": {
+      "english": "cloudformic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudformic",
+      "gondi_itrans": "kloudformik",
+      "gondi_meaning": "tech-concept: form-ic"
+    },
+    "statscopeed": {
+      "english": "statscopeed",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statscopeed",
+      "gondi_itrans": "statskopeed",
+      "gondi_meaning": "tech-concept: scope-ed"
+    },
+    "statsectal": {
+      "english": "statsectal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statsectal",
+      "gondi_itrans": "statsektal",
+      "gondi_meaning": "tech-concept: sect-al"
+    },
+    "cyberruptible": {
+      "english": "cyberruptible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberruptible",
+      "gondi_itrans": "kiberruptible",
+      "gondi_meaning": "tech-concept: rupt-ible"
+    },
+    "infoticsible": {
+      "english": "infoticsible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infoticsible",
+      "gondi_itrans": "infotiksible",
+      "gondi_meaning": "tech-concept: tics-ible"
+    },
+    "phonvolvehood": {
+      "english": "phonvolvehood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonvolvehood",
+      "gondi_itrans": "fonvolvehood",
+      "gondi_meaning": "tech-concept: volve-hood"
+    },
+    "netruptory": {
+      "english": "netruptory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netruptory",
+      "gondi_itrans": "netruptori",
+      "gondi_meaning": "tech-concept: rupt-ory"
+    },
+    "statscopeive": {
+      "english": "statscopeive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statscopeive",
+      "gondi_itrans": "statskopeive",
+      "gondi_meaning": "tech-concept: scope-ive"
+    },
+    "mathformery": {
+      "english": "mathformery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathformery",
+      "gondi_itrans": "mathformeri",
+      "gondi_meaning": "tech-concept: form-ery"
+    },
+    "datajective": {
+      "english": "datajective",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datajective",
+      "gondi_itrans": "datajektive",
+      "gondi_meaning": "tech-concept: ject-ive"
+    },
+    "graphmented": {
+      "english": "graphmented",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphmented",
+      "gondi_itrans": "grafmented",
+      "gondi_meaning": "tech-concept: ment-ed"
+    },
+    "websective": {
+      "english": "websective",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-websective",
+      "gondi_itrans": "websektive",
+      "gondi_meaning": "tech-concept: sect-ive"
+    },
+    "mathsectery": {
+      "english": "mathsectery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathsectery",
+      "gondi_itrans": "mathsekteri",
+      "gondi_meaning": "tech-concept: sect-ery"
+    },
+    "specductous": {
+      "english": "specductous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specductous",
+      "gondi_itrans": "spekduktous",
+      "gondi_meaning": "tech-concept: duct-ous"
+    },
+    "cybermetrhood": {
+      "english": "cybermetrhood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybermetrhood",
+      "gondi_itrans": "kibermetrhood",
+      "gondi_meaning": "tech-concept: metr-hood"
+    },
+    "neurovolveive": {
+      "english": "neurovolveive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurovolveive",
+      "gondi_itrans": "neurovolveive",
+      "gondi_meaning": "tech-concept: volve-ive"
+    },
+    "logmentery": {
+      "english": "logmentery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logmentery",
+      "gondi_itrans": "logmenteri",
+      "gondi_meaning": "tech-concept: ment-ery"
+    },
+    "loglogytion": {
+      "english": "loglogytion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-loglogytion",
+      "gondi_itrans": "loglogishon",
+      "gondi_meaning": "tech-concept: logy-tion"
+    },
+    "machruptible": {
+      "english": "machruptible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machruptible",
+      "gondi_itrans": "makhruptible",
+      "gondi_meaning": "tech-concept: rupt-ible"
+    },
+    "datamentty": {
+      "english": "datamentty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datamentty",
+      "gondi_itrans": "datamentti",
+      "gondi_meaning": "tech-concept: ment-ty"
+    },
+    "cybervolveible": {
+      "english": "cybervolveible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybervolveible",
+      "gondi_itrans": "kibervolveible",
+      "gondi_meaning": "tech-concept: volve-ible"
+    },
+    "dataductment": {
+      "english": "dataductment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-dataductment",
+      "gondi_itrans": "dataduktment",
+      "gondi_meaning": "tech-concept: duct-ment"
+    },
+    "netgraphytion": {
+      "english": "netgraphytion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netgraphytion",
+      "gondi_itrans": "netgrafishon",
+      "gondi_meaning": "tech-concept: graphy-tion"
+    },
+    "deepjectible": {
+      "english": "deepjectible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepjectible",
+      "gondi_itrans": "deepjektible",
+      "gondi_meaning": "tech-concept: ject-ible"
+    },
+    "infoformship": {
+      "english": "infoformship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infoformship",
+      "gondi_itrans": "infoformship",
+      "gondi_meaning": "tech-concept: form-ship"
+    },
+    "datamentness": {
+      "english": "datamentness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datamentness",
+      "gondi_itrans": "datamentness",
+      "gondi_meaning": "tech-concept: ment-ness"
+    },
+    "mathtractic": {
+      "english": "mathtractic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathtractic",
+      "gondi_itrans": "mathtraktik",
+      "gondi_meaning": "tech-concept: tract-ic"
+    },
+    "graphcepthood": {
+      "english": "graphcepthood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphcepthood",
+      "gondi_itrans": "grafkepthood",
+      "gondi_meaning": "tech-concept: cept-hood"
+    },
+    "neuroicsary": {
+      "english": "neuroicsary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroicsary",
+      "gondi_itrans": "neuroiksari",
+      "gondi_meaning": "tech-concept: ics-ary"
+    },
+    "logductness": {
+      "english": "logductness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logductness",
+      "gondi_itrans": "logduktness",
+      "gondi_meaning": "tech-concept: duct-ness"
+    },
+    "webscopeal": {
+      "english": "webscopeal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webscopeal",
+      "gondi_itrans": "webskopeal",
+      "gondi_meaning": "tech-concept: scope-al"
+    },
+    "transticsal": {
+      "english": "transticsal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transticsal",
+      "gondi_itrans": "transtiksal",
+      "gondi_meaning": "tech-concept: tics-al"
+    },
+    "datapresshood": {
+      "english": "datapresshood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datapresshood",
+      "gondi_itrans": "datapresshood",
+      "gondi_meaning": "tech-concept: press-hood"
+    },
+    "phonsioning": {
+      "english": "phonsioning",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonsioning",
+      "gondi_itrans": "fonsioning",
+      "gondi_meaning": "tech-concept: sion-ing"
+    },
+    "cybersionary": {
+      "english": "cybersionary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybersionary",
+      "gondi_itrans": "kibersionari",
+      "gondi_meaning": "tech-concept: sion-ary"
+    },
+    "logmetrist": {
+      "english": "logmetrist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logmetrist",
+      "gondi_itrans": "logmetrist",
+      "gondi_meaning": "tech-concept: metr-ist"
+    },
+    "neurosionible": {
+      "english": "neurosionible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurosionible",
+      "gondi_itrans": "neurosionible",
+      "gondi_meaning": "tech-concept: sion-ible"
+    },
+    "statmentous": {
+      "english": "statmentous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statmentous",
+      "gondi_itrans": "statmentous",
+      "gondi_meaning": "tech-concept: ment-ous"
+    },
+    "machscribeing": {
+      "english": "machscribeing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machscribeing",
+      "gondi_itrans": "makhskribeing",
+      "gondi_meaning": "tech-concept: scribe-ing"
+    },
+    "mathsionory": {
+      "english": "mathsionory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathsionory",
+      "gondi_itrans": "mathsionori",
+      "gondi_meaning": "tech-concept: sion-ory"
+    },
+    "logpressty": {
+      "english": "logpressty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logpressty",
+      "gondi_itrans": "logpressti",
+      "gondi_meaning": "tech-concept: press-ty"
+    },
+    "neuroceptary": {
+      "english": "neuroceptary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroceptary",
+      "gondi_itrans": "neurokeptari",
+      "gondi_meaning": "tech-concept: cept-ary"
+    },
+    "algoviseic": {
+      "english": "algoviseic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoviseic",
+      "gondi_itrans": "algoviseik",
+      "gondi_meaning": "tech-concept: vise-ic"
+    },
+    "datalogyist": {
+      "english": "datalogyist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datalogyist",
+      "gondi_itrans": "datalogiist",
+      "gondi_meaning": "tech-concept: logy-ist"
+    },
+    "cloudmentment": {
+      "english": "cloudmentment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudmentment",
+      "gondi_itrans": "kloudmentment",
+      "gondi_meaning": "tech-concept: ment-ment"
+    },
+    "statsionment": {
+      "english": "statsionment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statsionment",
+      "gondi_itrans": "statsionment",
+      "gondi_meaning": "tech-concept: sion-ment"
+    },
+    "probjectty": {
+      "english": "probjectty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probjectty",
+      "gondi_itrans": "probjektti",
+      "gondi_meaning": "tech-concept: ject-ty"
+    },
+    "cloudvolveery": {
+      "english": "cloudvolveery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudvolveery",
+      "gondi_itrans": "kloudvolveeri",
+      "gondi_meaning": "tech-concept: volve-ery"
+    },
+    "deepmetrable": {
+      "english": "deepmetrable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepmetrable",
+      "gondi_itrans": "deepmetrable",
+      "gondi_meaning": "tech-concept: metr-able"
+    },
+    "specscribeing": {
+      "english": "specscribeing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specscribeing",
+      "gondi_itrans": "spekskribeing",
+      "gondi_meaning": "tech-concept: scribe-ing"
+    },
+    "transtractic": {
+      "english": "transtractic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transtractic",
+      "gondi_itrans": "transtraktik",
+      "gondi_meaning": "tech-concept: tract-ic"
+    },
+    "nettionible": {
+      "english": "nettionible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-nettionible",
+      "gondi_itrans": "netshonible",
+      "gondi_meaning": "tech-concept: tion-ible"
+    },
+    "deeppresser": {
+      "english": "deeppresser",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deeppresser",
+      "gondi_itrans": "deeppresser",
+      "gondi_meaning": "tech-concept: press-er"
+    },
+    "autosectable": {
+      "english": "autosectable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autosectable",
+      "gondi_itrans": "autosektable",
+      "gondi_meaning": "tech-concept: sect-able"
+    },
+    "specsionic": {
+      "english": "specsionic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specsionic",
+      "gondi_itrans": "speksionik",
+      "gondi_meaning": "tech-concept: sion-ic"
+    },
+    "webvisement": {
+      "english": "webvisement",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webvisement",
+      "gondi_itrans": "webvisement",
+      "gondi_meaning": "tech-concept: vise-ment"
+    },
+    "logticsous": {
+      "english": "logticsous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logticsous",
+      "gondi_itrans": "logtiksous",
+      "gondi_meaning": "tech-concept: tics-ous"
+    },
+    "loggraphyal": {
+      "english": "loggraphyal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-loggraphyal",
+      "gondi_itrans": "loggrafial",
+      "gondi_meaning": "tech-concept: graphy-al"
+    },
+    "statmetrity": {
+      "english": "statmetrity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statmetrity",
+      "gondi_itrans": "statmetriti",
+      "gondi_meaning": "tech-concept: metr-ity"
+    },
+    "cyberductity": {
+      "english": "cyberductity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberductity",
+      "gondi_itrans": "kiberduktiti",
+      "gondi_meaning": "tech-concept: duct-ity"
+    },
+    "autoformory": {
+      "english": "autoformory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoformory",
+      "gondi_itrans": "autoformori",
+      "gondi_meaning": "tech-concept: form-ory"
+    },
+    "deepicsment": {
+      "english": "deepicsment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepicsment",
+      "gondi_itrans": "deepiksment",
+      "gondi_meaning": "tech-concept: ics-ment"
+    },
+    "probgraphyist": {
+      "english": "probgraphyist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probgraphyist",
+      "gondi_itrans": "probgrafiist",
+      "gondi_meaning": "tech-concept: graphy-ist"
+    },
+    "machmentment": {
+      "english": "machmentment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machmentment",
+      "gondi_itrans": "makhmentment",
+      "gondi_meaning": "tech-concept: ment-ment"
+    },
+    "cyberducter": {
+      "english": "cyberducter",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberducter",
+      "gondi_itrans": "kiberdukter",
+      "gondi_meaning": "tech-concept: duct-er"
+    },
+    "compruptist": {
+      "english": "compruptist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compruptist",
+      "gondi_itrans": "kompruptist",
+      "gondi_meaning": "tech-concept: rupt-ist"
+    },
+    "neurotractship": {
+      "english": "neurotractship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurotractship",
+      "gondi_itrans": "neurotraktship",
+      "gondi_meaning": "tech-concept: tract-ship"
+    },
+    "probviseory": {
+      "english": "probviseory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probviseory",
+      "gondi_itrans": "probviseori",
+      "gondi_meaning": "tech-concept: vise-ory"
+    },
+    "graphicshood": {
+      "english": "graphicshood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphicshood",
+      "gondi_itrans": "grafikshood",
+      "gondi_meaning": "tech-concept: ics-hood"
+    },
+    "deepformhood": {
+      "english": "deepformhood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepformhood",
+      "gondi_itrans": "deepformhood",
+      "gondi_meaning": "tech-concept: form-hood"
+    },
+    "compductity": {
+      "english": "compductity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compductity",
+      "gondi_itrans": "kompduktiti",
+      "gondi_meaning": "tech-concept: duct-ity"
+    },
+    "statviseing": {
+      "english": "statviseing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statviseing",
+      "gondi_itrans": "statviseing",
+      "gondi_meaning": "tech-concept: vise-ing"
+    },
+    "graphtractery": {
+      "english": "graphtractery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphtractery",
+      "gondi_itrans": "graftrakteri",
+      "gondi_meaning": "tech-concept: tract-ery"
+    },
+    "logvolveic": {
+      "english": "logvolveic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logvolveic",
+      "gondi_itrans": "logvolveik",
+      "gondi_meaning": "tech-concept: volve-ic"
+    },
+    "logtionory": {
+      "english": "logtionory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logtionory",
+      "gondi_itrans": "logshonori",
+      "gondi_meaning": "tech-concept: tion-ory"
+    },
+    "autotionable": {
+      "english": "autotionable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autotionable",
+      "gondi_itrans": "autoshonable",
+      "gondi_meaning": "tech-concept: tion-able"
+    },
+    "deepscribeive": {
+      "english": "deepscribeive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepscribeive",
+      "gondi_itrans": "deepskribeive",
+      "gondi_meaning": "tech-concept: scribe-ive"
+    },
+    "algoicsness": {
+      "english": "algoicsness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoicsness",
+      "gondi_itrans": "algoiksness",
+      "gondi_meaning": "tech-concept: ics-ness"
+    },
+    "webscribetion": {
+      "english": "webscribetion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webscribetion",
+      "gondi_itrans": "webskribeshon",
+      "gondi_meaning": "tech-concept: scribe-tion"
+    },
+    "autoruptable": {
+      "english": "autoruptable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoruptable",
+      "gondi_itrans": "autoruptable",
+      "gondi_meaning": "tech-concept: rupt-able"
+    },
+    "loglogyible": {
+      "english": "loglogyible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-loglogyible",
+      "gondi_itrans": "loglogiible",
+      "gondi_meaning": "tech-concept: logy-ible"
+    },
+    "transsionible": {
+      "english": "transsionible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transsionible",
+      "gondi_itrans": "transsionible",
+      "gondi_meaning": "tech-concept: sion-ible"
+    },
+    "netlogyist": {
+      "english": "netlogyist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-netlogyist",
+      "gondi_itrans": "netlogiist",
+      "gondi_meaning": "tech-concept: logy-ist"
+    },
+    "datavolveity": {
+      "english": "datavolveity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datavolveity",
+      "gondi_itrans": "datavolveiti",
+      "gondi_meaning": "tech-concept: volve-ity"
+    },
+    "logruptist": {
+      "english": "logruptist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logruptist",
+      "gondi_itrans": "logruptist",
+      "gondi_meaning": "tech-concept: rupt-ist"
+    },
+    "algomentary": {
+      "english": "algomentary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algomentary",
+      "gondi_itrans": "algomentari",
+      "gondi_meaning": "tech-concept: ment-ary"
+    },
+    "datamental": {
+      "english": "datamental",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datamental",
+      "gondi_itrans": "datamental",
+      "gondi_meaning": "tech-concept: ment-al"
+    },
+    "cyberticsal": {
+      "english": "cyberticsal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberticsal",
+      "gondi_itrans": "kibertiksal",
+      "gondi_meaning": "tech-concept: tics-al"
+    },
+    "neuromental": {
+      "english": "neuromental",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuromental",
+      "gondi_itrans": "neuromental",
+      "gondi_meaning": "tech-concept: ment-al"
+    },
+    "machtractship": {
+      "english": "machtractship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machtractship",
+      "gondi_itrans": "makhtraktship",
+      "gondi_meaning": "tech-concept: tract-ship"
+    },
+    "deepvolveness": {
+      "english": "deepvolveness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepvolveness",
+      "gondi_itrans": "deepvolveness",
+      "gondi_meaning": "tech-concept: volve-ness"
+    },
+    "algotracted": {
+      "english": "algotracted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algotracted",
+      "gondi_itrans": "algotrakted",
+      "gondi_meaning": "tech-concept: tract-ed"
+    },
+    "machtractive": {
+      "english": "machtractive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machtractive",
+      "gondi_itrans": "makhtraktive",
+      "gondi_meaning": "tech-concept: tract-ive"
+    },
+    "graphducttion": {
+      "english": "graphducttion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphducttion",
+      "gondi_itrans": "grafduktshon",
+      "gondi_meaning": "tech-concept: duct-tion"
+    },
+    "datapressous": {
+      "english": "datapressous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datapressous",
+      "gondi_itrans": "datapressous",
+      "gondi_meaning": "tech-concept: press-ous"
+    },
+    "specpressory": {
+      "english": "specpressory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specpressory",
+      "gondi_itrans": "spekpressori",
+      "gondi_meaning": "tech-concept: press-ory"
+    },
+    "logscribeing": {
+      "english": "logscribeing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logscribeing",
+      "gondi_itrans": "logskribeing",
+      "gondi_meaning": "tech-concept: scribe-ing"
+    },
+    "cybervolveing": {
+      "english": "cybervolveing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybervolveing",
+      "gondi_itrans": "kibervolveing",
+      "gondi_meaning": "tech-concept: volve-ing"
+    },
+    "neuroticshood": {
+      "english": "neuroticshood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroticshood",
+      "gondi_itrans": "neurotikshood",
+      "gondi_meaning": "tech-concept: tics-hood"
+    },
+    "probductity": {
+      "english": "probductity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probductity",
+      "gondi_itrans": "probduktiti",
+      "gondi_meaning": "tech-concept: duct-ity"
+    },
+    "graphviseer": {
+      "english": "graphviseer",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphviseer",
+      "gondi_itrans": "grafviseer",
+      "gondi_meaning": "tech-concept: vise-er"
+    },
+    "neuroticsity": {
+      "english": "neuroticsity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroticsity",
+      "gondi_itrans": "neurotiksiti",
+      "gondi_meaning": "tech-concept: tics-ity"
+    },
+    "statforming": {
+      "english": "statforming",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statforming",
+      "gondi_itrans": "statforming",
+      "gondi_meaning": "tech-concept: form-ing"
+    },
+    "phonscopeive": {
+      "english": "phonscopeive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonscopeive",
+      "gondi_itrans": "fonskopeive",
+      "gondi_meaning": "tech-concept: scope-ive"
+    },
+    "logsionive": {
+      "english": "logsionive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logsionive",
+      "gondi_itrans": "logsionive",
+      "gondi_meaning": "tech-concept: sion-ive"
+    },
+    "algoruptment": {
+      "english": "algoruptment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoruptment",
+      "gondi_itrans": "algoruptment",
+      "gondi_meaning": "tech-concept: rupt-ment"
+    },
+    "machjectity": {
+      "english": "machjectity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machjectity",
+      "gondi_itrans": "makhjektiti",
+      "gondi_meaning": "tech-concept: ject-ity"
+    },
+    "speclogyery": {
+      "english": "speclogyery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-speclogyery",
+      "gondi_itrans": "speklogieri",
+      "gondi_meaning": "tech-concept: logy-ery"
+    },
+    "transrupter": {
+      "english": "transrupter",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transrupter",
+      "gondi_itrans": "transrupter",
+      "gondi_meaning": "tech-concept: rupt-er"
+    },
+    "transruptive": {
+      "english": "transruptive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transruptive",
+      "gondi_itrans": "transruptive",
+      "gondi_meaning": "tech-concept: rupt-ive"
+    },
+    "mathruptive": {
+      "english": "mathruptive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathruptive",
+      "gondi_itrans": "mathruptive",
+      "gondi_meaning": "tech-concept: rupt-ive"
+    },
+    "phonvolveing": {
+      "english": "phonvolveing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonvolveing",
+      "gondi_itrans": "fonvolveing",
+      "gondi_meaning": "tech-concept: volve-ing"
+    },
+    "cloudformtion": {
+      "english": "cloudformtion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudformtion",
+      "gondi_itrans": "kloudformshon",
+      "gondi_meaning": "tech-concept: form-tion"
+    },
+    "nettionship": {
+      "english": "nettionship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-nettionship",
+      "gondi_itrans": "netshonship",
+      "gondi_meaning": "tech-concept: tion-ship"
+    },
+    "mathicsic": {
+      "english": "mathicsic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathicsic",
+      "gondi_itrans": "mathiksik",
+      "gondi_meaning": "tech-concept: ics-ic"
+    },
+    "cybertractous": {
+      "english": "cybertractous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybertractous",
+      "gondi_itrans": "kibertraktous",
+      "gondi_meaning": "tech-concept: tract-ous"
+    },
+    "statcepted": {
+      "english": "statcepted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statcepted",
+      "gondi_itrans": "statkepted",
+      "gondi_meaning": "tech-concept: cept-ed"
+    },
+    "infovolveable": {
+      "english": "infovolveable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infovolveable",
+      "gondi_itrans": "infovolveable",
+      "gondi_meaning": "tech-concept: volve-able"
+    },
+    "mathscopehood": {
+      "english": "mathscopehood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathscopehood",
+      "gondi_itrans": "mathskopehood",
+      "gondi_meaning": "tech-concept: scope-hood"
+    },
+    "graphscribeic": {
+      "english": "graphscribeic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphscribeic",
+      "gondi_itrans": "grafskribeik",
+      "gondi_meaning": "tech-concept: scribe-ic"
+    },
+    "probviseer": {
+      "english": "probviseer",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probviseer",
+      "gondi_itrans": "probviseer",
+      "gondi_meaning": "tech-concept: vise-er"
+    },
+    "transmentty": {
+      "english": "transmentty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transmentty",
+      "gondi_itrans": "transmentti",
+      "gondi_meaning": "tech-concept: ment-ty"
+    },
+    "logruptous": {
+      "english": "logruptous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logruptous",
+      "gondi_itrans": "logruptous",
+      "gondi_meaning": "tech-concept: rupt-ous"
+    },
+    "autoticsity": {
+      "english": "autoticsity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoticsity",
+      "gondi_itrans": "autotiksiti",
+      "gondi_meaning": "tech-concept: tics-ity"
+    },
+    "specceptory": {
+      "english": "specceptory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specceptory",
+      "gondi_itrans": "spekkeptori",
+      "gondi_meaning": "tech-concept: cept-ory"
+    },
+    "neurotracting": {
+      "english": "neurotracting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurotracting",
+      "gondi_itrans": "neurotrakting",
+      "gondi_meaning": "tech-concept: tract-ing"
+    },
+    "autoductive": {
+      "english": "autoductive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoductive",
+      "gondi_itrans": "autoduktive",
+      "gondi_meaning": "tech-concept: duct-ive"
+    },
+    "specgraphyty": {
+      "english": "specgraphyty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specgraphyty",
+      "gondi_itrans": "spekgrafiti",
+      "gondi_meaning": "tech-concept: graphy-ty"
+    },
+    "comppressity": {
+      "english": "comppressity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-comppressity",
+      "gondi_itrans": "komppressiti",
+      "gondi_meaning": "tech-concept: press-ity"
+    },
+    "transticsive": {
+      "english": "transticsive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transticsive",
+      "gondi_itrans": "transtiksive",
+      "gondi_meaning": "tech-concept: tics-ive"
+    },
+    "transticsable": {
+      "english": "transticsable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transticsable",
+      "gondi_itrans": "transtiksable",
+      "gondi_meaning": "tech-concept: tics-able"
+    },
+    "autorupting": {
+      "english": "autorupting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autorupting",
+      "gondi_itrans": "autorupting",
+      "gondi_meaning": "tech-concept: rupt-ing"
+    },
+    "probsiontion": {
+      "english": "probsiontion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probsiontion",
+      "gondi_itrans": "probsionshon",
+      "gondi_meaning": "tech-concept: sion-tion"
+    },
+    "cloudicsary": {
+      "english": "cloudicsary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudicsary",
+      "gondi_itrans": "kloudiksari",
+      "gondi_meaning": "tech-concept: ics-ary"
+    },
+    "cyberviseal": {
+      "english": "cyberviseal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberviseal",
+      "gondi_itrans": "kiberviseal",
+      "gondi_meaning": "tech-concept: vise-al"
+    },
+    "cyberlogyive": {
+      "english": "cyberlogyive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberlogyive",
+      "gondi_itrans": "kiberlogiive",
+      "gondi_meaning": "tech-concept: logy-ive"
+    },
+    "algosionty": {
+      "english": "algosionty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algosionty",
+      "gondi_itrans": "algosionti",
+      "gondi_meaning": "tech-concept: sion-ty"
+    },
+    "mathsioner": {
+      "english": "mathsioner",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathsioner",
+      "gondi_itrans": "mathsioner",
+      "gondi_meaning": "tech-concept: sion-er"
+    },
+    "statjecter": {
+      "english": "statjecter",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statjecter",
+      "gondi_itrans": "statjekter",
+      "gondi_meaning": "tech-concept: ject-er"
+    },
+    "compicsous": {
+      "english": "compicsous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compicsous",
+      "gondi_itrans": "kompiksous",
+      "gondi_meaning": "tech-concept: ics-ous"
+    },
+    "deepgraphyive": {
+      "english": "deepgraphyive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepgraphyive",
+      "gondi_itrans": "deepgrafiive",
+      "gondi_meaning": "tech-concept: graphy-ive"
+    },
+    "webmental": {
+      "english": "webmental",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmental",
+      "gondi_itrans": "webmental",
+      "gondi_meaning": "tech-concept: ment-al"
+    },
+    "deeptracting": {
+      "english": "deeptracting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deeptracting",
+      "gondi_itrans": "deeptrakting",
+      "gondi_meaning": "tech-concept: tract-ing"
+    },
+    "phonformtion": {
+      "english": "phonformtion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonformtion",
+      "gondi_itrans": "fonformshon",
+      "gondi_meaning": "tech-concept: form-tion"
+    },
+    "compducting": {
+      "english": "compducting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compducting",
+      "gondi_itrans": "kompdukting",
+      "gondi_meaning": "tech-concept: duct-ing"
+    },
+    "machvolveist": {
+      "english": "machvolveist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machvolveist",
+      "gondi_itrans": "makhvolveist",
+      "gondi_meaning": "tech-concept: volve-ist"
+    },
+    "webviseive": {
+      "english": "webviseive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webviseive",
+      "gondi_itrans": "webviseive",
+      "gondi_meaning": "tech-concept: vise-ive"
+    },
+    "mathscribetion": {
+      "english": "mathscribetion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathscribetion",
+      "gondi_itrans": "mathskribeshon",
+      "gondi_meaning": "tech-concept: scribe-tion"
+    },
+    "algotionity": {
+      "english": "algotionity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algotionity",
+      "gondi_itrans": "algoshoniti",
+      "gondi_meaning": "tech-concept: tion-ity"
+    },
+    "staticsship": {
+      "english": "staticsship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-staticsship",
+      "gondi_itrans": "statiksship",
+      "gondi_meaning": "tech-concept: ics-ship"
+    },
+    "infosionity": {
+      "english": "infosionity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infosionity",
+      "gondi_itrans": "infosioniti",
+      "gondi_meaning": "tech-concept: sion-ity"
+    },
+    "webmetrory": {
+      "english": "webmetrory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmetrory",
+      "gondi_itrans": "webmetrori",
+      "gondi_meaning": "tech-concept: metr-ory"
+    },
+    "deepmentous": {
+      "english": "deepmentous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepmentous",
+      "gondi_itrans": "deepmentous",
+      "gondi_meaning": "tech-concept: ment-ous"
+    },
+    "cloudmenting": {
+      "english": "cloudmenting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudmenting",
+      "gondi_itrans": "kloudmenting",
+      "gondi_meaning": "tech-concept: ment-ing"
+    },
+    "cyberpresstion": {
+      "english": "cyberpresstion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberpresstion",
+      "gondi_itrans": "kiberpressshon",
+      "gondi_meaning": "tech-concept: press-tion"
+    },
+    "infoscribeity": {
+      "english": "infoscribeity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infoscribeity",
+      "gondi_itrans": "infoskribeiti",
+      "gondi_meaning": "tech-concept: scribe-ity"
+    },
+    "autoscribement": {
+      "english": "autoscribement",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-autoscribement",
+      "gondi_itrans": "autoskribement",
+      "gondi_meaning": "tech-concept: scribe-ment"
+    },
+    "cybersectty": {
+      "english": "cybersectty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybersectty",
+      "gondi_itrans": "kibersektti",
+      "gondi_meaning": "tech-concept: sect-ty"
+    },
+    "transmetrship": {
+      "english": "transmetrship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transmetrship",
+      "gondi_itrans": "transmetrship",
+      "gondi_meaning": "tech-concept: metr-ship"
+    },
+    "mathmetrive": {
+      "english": "mathmetrive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathmetrive",
+      "gondi_itrans": "mathmetrive",
+      "gondi_meaning": "tech-concept: metr-ive"
+    },
+    "transscopeic": {
+      "english": "transscopeic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transscopeic",
+      "gondi_itrans": "transskopeik",
+      "gondi_meaning": "tech-concept: scope-ic"
+    },
+    "comprupttion": {
+      "english": "comprupttion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-comprupttion",
+      "gondi_itrans": "kompruptshon",
+      "gondi_meaning": "tech-concept: rupt-tion"
+    },
+    "algoformty": {
+      "english": "algoformty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoformty",
+      "gondi_itrans": "algoformti",
+      "gondi_meaning": "tech-concept: form-ty"
+    },
+    "graphsioned": {
+      "english": "graphsioned",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphsioned",
+      "gondi_itrans": "grafsioned",
+      "gondi_meaning": "tech-concept: sion-ed"
+    },
+    "neurotractty": {
+      "english": "neurotractty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurotractty",
+      "gondi_itrans": "neurotraktti",
+      "gondi_meaning": "tech-concept: tract-ty"
+    },
+    "probicsty": {
+      "english": "probicsty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probicsty",
+      "gondi_itrans": "probiksti",
+      "gondi_meaning": "tech-concept: ics-ty"
+    },
+    "neuroscopeal": {
+      "english": "neuroscopeal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroscopeal",
+      "gondi_itrans": "neuroskopeal",
+      "gondi_meaning": "tech-concept: scope-al"
+    },
+    "probmetrous": {
+      "english": "probmetrous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probmetrous",
+      "gondi_itrans": "probmetrous",
+      "gondi_meaning": "tech-concept: metr-ous"
+    },
+    "probsional": {
+      "english": "probsional",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probsional",
+      "gondi_itrans": "probsional",
+      "gondi_meaning": "tech-concept: sion-al"
+    },
+    "machtractment": {
+      "english": "machtractment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machtractment",
+      "gondi_itrans": "makhtraktment",
+      "gondi_meaning": "tech-concept: tract-ment"
+    },
+    "algoscopement": {
+      "english": "algoscopement",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algoscopement",
+      "gondi_itrans": "algoskopement",
+      "gondi_meaning": "tech-concept: scope-ment"
+    },
+    "logticshood": {
+      "english": "logticshood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logticshood",
+      "gondi_itrans": "logtikshood",
+      "gondi_meaning": "tech-concept: tics-hood"
+    },
+    "algotracting": {
+      "english": "algotracting",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algotracting",
+      "gondi_itrans": "algotrakting",
+      "gondi_meaning": "tech-concept: tract-ing"
+    },
+    "cloudductist": {
+      "english": "cloudductist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudductist",
+      "gondi_itrans": "kloudduktist",
+      "gondi_meaning": "tech-concept: duct-ist"
+    },
+    "spectractible": {
+      "english": "spectractible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-spectractible",
+      "gondi_itrans": "spektraktible",
+      "gondi_meaning": "tech-concept: tract-ible"
+    },
+    "compmetrhood": {
+      "english": "compmetrhood",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compmetrhood",
+      "gondi_itrans": "kompmetrhood",
+      "gondi_meaning": "tech-concept: metr-hood"
+    },
+    "graphgraphyory": {
+      "english": "graphgraphyory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphgraphyory",
+      "gondi_itrans": "grafgrafiori",
+      "gondi_meaning": "tech-concept: graphy-ory"
+    },
+    "specductship": {
+      "english": "specductship",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specductship",
+      "gondi_itrans": "spekduktship",
+      "gondi_meaning": "tech-concept: duct-ship"
+    },
+    "neuroductery": {
+      "english": "neuroductery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroductery",
+      "gondi_itrans": "neurodukteri",
+      "gondi_meaning": "tech-concept: duct-ery"
+    },
+    "machmenttion": {
+      "english": "machmenttion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machmenttion",
+      "gondi_itrans": "makhmentshon",
+      "gondi_meaning": "tech-concept: ment-tion"
+    },
+    "datascribetion": {
+      "english": "datascribetion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datascribetion",
+      "gondi_itrans": "dataskribeshon",
+      "gondi_meaning": "tech-concept: scribe-tion"
+    },
+    "cyberticsable": {
+      "english": "cyberticsable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberticsable",
+      "gondi_itrans": "kibertiksable",
+      "gondi_meaning": "tech-concept: tics-able"
+    },
+    "statvolveist": {
+      "english": "statvolveist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statvolveist",
+      "gondi_itrans": "statvolveist",
+      "gondi_meaning": "tech-concept: volve-ist"
+    },
+    "probsecter": {
+      "english": "probsecter",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probsecter",
+      "gondi_itrans": "probsekter",
+      "gondi_meaning": "tech-concept: sect-er"
+    },
+    "probformive": {
+      "english": "probformive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-probformive",
+      "gondi_itrans": "probformive",
+      "gondi_meaning": "tech-concept: form-ive"
+    },
+    "machmentness": {
+      "english": "machmentness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machmentness",
+      "gondi_itrans": "makhmentness",
+      "gondi_meaning": "tech-concept: ment-ness"
+    },
+    "algographyness": {
+      "english": "algographyness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-algographyness",
+      "gondi_itrans": "algografiness",
+      "gondi_meaning": "tech-concept: graphy-ness"
+    },
+    "cloudtionness": {
+      "english": "cloudtionness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cloudtionness",
+      "gondi_itrans": "kloudshonness",
+      "gondi_meaning": "tech-concept: tion-ness"
+    },
+    "neurographyic": {
+      "english": "neurographyic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurographyic",
+      "gondi_itrans": "neurografiik",
+      "gondi_meaning": "tech-concept: graphy-ic"
+    },
+    "deepgraphyty": {
+      "english": "deepgraphyty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-deepgraphyty",
+      "gondi_itrans": "deepgrafiti",
+      "gondi_meaning": "tech-concept: graphy-ty"
+    },
+    "translogyic": {
+      "english": "translogyic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-translogyic",
+      "gondi_itrans": "translogiik",
+      "gondi_meaning": "tech-concept: logy-ic"
+    },
+    "transmentic": {
+      "english": "transmentic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transmentic",
+      "gondi_itrans": "transmentik",
+      "gondi_meaning": "tech-concept: ment-ic"
+    },
+    "infomentory": {
+      "english": "infomentory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infomentory",
+      "gondi_itrans": "infomentori",
+      "gondi_meaning": "tech-concept: ment-ory"
+    },
+    "problogyity": {
+      "english": "problogyity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-problogyity",
+      "gondi_itrans": "problogiiti",
+      "gondi_meaning": "tech-concept: logy-ity"
+    },
+    "neuroductory": {
+      "english": "neuroductory",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroductory",
+      "gondi_itrans": "neuroduktori",
+      "gondi_meaning": "tech-concept: duct-ory"
+    },
+    "specruptary": {
+      "english": "specruptary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specruptary",
+      "gondi_itrans": "spekruptari",
+      "gondi_meaning": "tech-concept: rupt-ary"
+    },
+    "graphruptary": {
+      "english": "graphruptary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphruptary",
+      "gondi_itrans": "grafruptari",
+      "gondi_meaning": "tech-concept: rupt-ary"
+    },
+    "logmetrous": {
+      "english": "logmetrous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logmetrous",
+      "gondi_itrans": "logmetrous",
+      "gondi_meaning": "tech-concept: metr-ous"
+    },
+    "cyberformer": {
+      "english": "cyberformer",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cyberformer",
+      "gondi_itrans": "kiberformer",
+      "gondi_meaning": "tech-concept: form-er"
+    },
+    "datatracted": {
+      "english": "datatracted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datatracted",
+      "gondi_itrans": "datatrakted",
+      "gondi_meaning": "tech-concept: tract-ed"
+    },
+    "specformable": {
+      "english": "specformable",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-specformable",
+      "gondi_itrans": "spekformable",
+      "gondi_meaning": "tech-concept: form-able"
+    },
+    "logmetrness": {
+      "english": "logmetrness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logmetrness",
+      "gondi_itrans": "logmetrness",
+      "gondi_meaning": "tech-concept: metr-ness"
+    },
+    "phonpresstion": {
+      "english": "phonpresstion",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonpresstion",
+      "gondi_itrans": "fonpressshon",
+      "gondi_meaning": "tech-concept: press-tion"
+    },
+    "cybersioner": {
+      "english": "cybersioner",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-cybersioner",
+      "gondi_itrans": "kibersioner",
+      "gondi_meaning": "tech-concept: sion-er"
+    },
+    "graphvolveer": {
+      "english": "graphvolveer",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphvolveer",
+      "gondi_itrans": "grafvolveer",
+      "gondi_meaning": "tech-concept: volve-er"
+    },
+    "machjectal": {
+      "english": "machjectal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machjectal",
+      "gondi_itrans": "makhjektal",
+      "gondi_meaning": "tech-concept: ject-al"
+    },
+    "webmetric": {
+      "english": "webmetric",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webmetric",
+      "gondi_itrans": "webmetrik",
+      "gondi_meaning": "tech-concept: metr-ic"
+    },
+    "neurotionist": {
+      "english": "neurotionist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurotionist",
+      "gondi_itrans": "neuroshonist",
+      "gondi_meaning": "tech-concept: tion-ist"
+    },
+    "mathformity": {
+      "english": "mathformity",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathformity",
+      "gondi_itrans": "mathformiti",
+      "gondi_meaning": "tech-concept: form-ity"
+    },
+    "compscribeary": {
+      "english": "compscribeary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-compscribeary",
+      "gondi_itrans": "kompskribeari",
+      "gondi_meaning": "tech-concept: scribe-ary"
+    },
+    "graphsectery": {
+      "english": "graphsectery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphsectery",
+      "gondi_itrans": "grafsekteri",
+      "gondi_meaning": "tech-concept: sect-ery"
+    },
+    "phonducted": {
+      "english": "phonducted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonducted",
+      "gondi_itrans": "fondukted",
+      "gondi_meaning": "tech-concept: duct-ed"
+    },
+    "dataductery": {
+      "english": "dataductery",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-dataductery",
+      "gondi_itrans": "datadukteri",
+      "gondi_meaning": "tech-concept: duct-ery"
+    },
+    "infoformic": {
+      "english": "infoformic",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infoformic",
+      "gondi_itrans": "infoformik",
+      "gondi_meaning": "tech-concept: form-ic"
+    },
+    "statviseible": {
+      "english": "statviseible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-statviseible",
+      "gondi_itrans": "statviseible",
+      "gondi_meaning": "tech-concept: vise-ible"
+    },
+    "graphgraphyible": {
+      "english": "graphgraphyible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphgraphyible",
+      "gondi_itrans": "grafgrafiible",
+      "gondi_meaning": "tech-concept: graphy-ible"
+    },
+    "mathtionist": {
+      "english": "mathtionist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-mathtionist",
+      "gondi_itrans": "mathshonist",
+      "gondi_meaning": "tech-concept: tion-ist"
+    },
+    "transicsing": {
+      "english": "transicsing",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-transicsing",
+      "gondi_itrans": "transiksing",
+      "gondi_meaning": "tech-concept: ics-ing"
+    },
+    "neuroceptive": {
+      "english": "neuroceptive",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuroceptive",
+      "gondi_itrans": "neurokeptive",
+      "gondi_meaning": "tech-concept: cept-ive"
+    },
+    "webceptous": {
+      "english": "webceptous",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webceptous",
+      "gondi_itrans": "webkeptous",
+      "gondi_meaning": "tech-concept: cept-ous"
+    },
+    "phonformment": {
+      "english": "phonformment",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonformment",
+      "gondi_itrans": "fonformment",
+      "gondi_meaning": "tech-concept: form-ment"
+    },
+    "graphticser": {
+      "english": "graphticser",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-graphticser",
+      "gondi_itrans": "graftikser",
+      "gondi_meaning": "tech-concept: tics-er"
+    },
+    "machsionist": {
+      "english": "machsionist",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-machsionist",
+      "gondi_itrans": "makhsionist",
+      "gondi_meaning": "tech-concept: sion-ist"
+    },
+    "neurographyed": {
+      "english": "neurographyed",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neurographyed",
+      "gondi_itrans": "neurografied",
+      "gondi_meaning": "tech-concept: graphy-ed"
+    },
+    "neuromentary": {
+      "english": "neuromentary",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-neuromentary",
+      "gondi_itrans": "neuromentari",
+      "gondi_meaning": "tech-concept: ment-ary"
+    },
+    "logceptal": {
+      "english": "logceptal",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logceptal",
+      "gondi_itrans": "logkeptal",
+      "gondi_meaning": "tech-concept: cept-al"
+    },
+    "datascopeness": {
+      "english": "datascopeness",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-datascopeness",
+      "gondi_itrans": "dataskopeness",
+      "gondi_meaning": "tech-concept: scope-ness"
+    },
+    "infoductible": {
+      "english": "infoductible",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-infoductible",
+      "gondi_itrans": "infoduktible",
+      "gondi_meaning": "tech-concept: duct-ible"
+    },
+    "logrupted": {
+      "english": "logrupted",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-logrupted",
+      "gondi_itrans": "logrupted",
+      "gondi_meaning": "tech-concept: rupt-ed"
+    },
+    "webvolvement": {
+      "english": "webvolvement",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-webvolvement",
+      "gondi_itrans": "webvolvement",
+      "gondi_meaning": "tech-concept: volve-ment"
+    },
+    "phonductty": {
+      "english": "phonductty",
+      "hindi": "\u0924\u0915\u0928\u0940\u0915\u0940-phonductty",
+      "gondi_itrans": "fonduktti",
+      "gondi_meaning": "tech-concept: duct-ty"
     }
   },
   "high_frequency_terms": [

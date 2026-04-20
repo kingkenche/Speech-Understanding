@@ -1,5 +1,5 @@
 # Assignment 2 Implementation Status (April 15, 2026)
-
+**Repository:** [https://github.com/kingkenche/Speech-Understanding/tree/Assignment-2](https://github.com/kingkenche/Speech-Understanding/tree/Assignment-2)
 ## Completed in Codebase
 
 ### Part I: Robust Code-Switched Transcription

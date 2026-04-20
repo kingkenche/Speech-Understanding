@@ -2,6 +2,7 @@
 
 **A-2 Student Submission**  
 **Department of CSA**
+**Repository:** [https://github.com/kingkenche/Speech-Understanding/tree/Assignment-2](https://github.com/kingkenche/Speech-Understanding/tree/Assignment-2)
 
 ---
 

@@ -1,5 +1,5 @@
 # Implementation Notes — Speech Understanding Assignment 2
-**Roll No:** M25CSA028 | **Date:** April 2026
+**Roll No:** M25CSA028 | **Date:** April 2026 | **Repo:** [Speech-Understanding](https://github.com/kingkenche/Speech-Understanding/tree/Assignment-2)
 
 ---
 

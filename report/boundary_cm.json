@@ -1,0 +1,30 @@
+{
+  "confusion_matrix": [
+    [
+      5890,
+      100
+    ],
+    [
+      1,
+      9
+    ]
+  ],
+  "stats": {
+    "tn": 5890,
+    "fp": 100,
+    "fn": 1,
+    "tp": 9,
+    "precision": 0.08256880733187442,
+    "recall": 0.8999999991,
+    "f1": 0.15126050263681945
+  },
+  "percentages": {
+    "tp_pct": 90.0,
+    "fn_pct": 10.0,
+    "fp_pct": 1.67,
+    "tn_pct": 98.3
+  },
+  "n_frames": 6000,
+  "n_switch_boundaries": 10,
+  "tolerance_ms": 200
+}

@@ -80,16 +80,16 @@ Baseline Tacotron2 & 14.32 & 45\% \\ \hline
 \end{table}
 
 \subsection{LID Boundary Performance}
-The Language Identification system was evaluated on its ability to identify code-switch points within a 200ms window.
+The Language Identification system was evaluated on its ability to identify code-switch points within a 200\,ms ($\pm$20 frame) tolerance window across 6{,}000 frames (60\,s of Hinglish audio) with 10 annotated switch boundaries. Results were computed using \texttt{src/evaluation/confusion\_matrix.py} and saved to \texttt{report/boundary\_cm.json}.
 
 \begin{table}[h]
 \centering
-\caption{Boundary Classification Confusion Matrix}
+\caption{Boundary Classification Confusion Matrix (10 switch boundaries, 6000 frames, $\tau$=200\,ms)}
 \begin{tabular}{|l|c|c|}
 \hline
-& \textbf{Boundary (GT)} & \textbf{No Boundary} \\ \hline
-\textbf{Detected Switch} & 87\% (TP) & 3\% (FP) \\ \hline
-\textbf{No Switch} & 9\% (FN) & 1\% (TN) \\ \hline
+ & \textbf{Boundary (GT)} & \textbf{No Boundary (GT)} \\ \hline
+\textbf{Detected Switch} & 90\% (9 TP) & 1.67\% (100 FP) \\ \hline
+\textbf{No Switch} & 10\% (1 FN) & 98.3\% (5890 TN) \\ \hline
 \end{tabular}
 \end{table}
 
